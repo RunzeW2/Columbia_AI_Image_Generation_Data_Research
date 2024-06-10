@@ -1,0 +1,2700 @@
+num_inference_steps,guidance_scale,seed,artist_style,prompt_word_count_correlation_time,num_items
+20,3,10,anime,-0.0942691628984567,5
+20,3,10,detailed_portrait,-0.11707318448520734,5
+20,3,10,edward_hopper,0.12729848636062757,5
+20,3,10,face_and_lighting,-0.168548913067007,5
+20,3,10,gta_v,-0.025028837893605552,5
+20,3,10,ibrahim_el_salahi,-0.01469400923983887,5
+20,3,10,jean-michel_basquiat,-0.14571671344467685,5
+20,3,10,kerry_james_marshall,-0.05729656607030945,5
+20,3,10,laura_wheeler_waring,-0.19185689311751009,5
+20,3,10,leonardo_da_vinci,0.08904811908975895,5
+20,3,10,louise bourgeois,0.12625900108955446,5
+20,3,10,ma_jir_bo,-0.04710951048447548,5
+20,3,10,marta_minujín,-0.12980909430876908,5
+20,3,10,medieval,-0.08535259766295164,5
+20,3,10,oil_on_canvas,-0.0454348187759105,5
+20,3,10,salvador_dali,-0.16408593427706888,5
+20,3,10,scifi,0.13656901775136338,5
+20,3,10,studio,-0.10799729974979466,5
+20,3,10,takashi_murakami,-0.1563535529242955,5
+20,3,10,unreal_engine,-0.16758404732983445,5
+20,3,10,van_gogh,-0.037295594870211134,5
+20,4,8,medieval,1.0,5
+20,4,10,anime,-0.012724910430223384,5
+20,4,10,detailed_portrait,-0.10307176045180917,5
+20,4,10,edward_hopper,-0.09572516890641936,5
+20,4,10,face_and_lighting,-0.1940423543512125,5
+20,4,10,gta_v,-0.08297855426151936,5
+20,4,10,ibrahim_el_salahi,0.006208359593322133,5
+20,4,10,jean-michel_basquiat,-0.1920324379282517,5
+20,4,10,kerry_james_marshall,0.4474281783005385,5
+20,4,10,laura_wheeler_waring,-0.19695498513862256,5
+20,4,10,leonardo_da_vinci,-0.03524625676302025,5
+20,4,10,louise bourgeois,0.2778654458491223,5
+20,4,10,ma_jir_bo,-0.10908138686023311,5
+20,4,10,marta_minujín,-0.1351516048789353,5
+20,4,10,medieval,0.04287440936879224,5
+20,4,10,oil_on_canvas,-0.030970900633084265,5
+20,4,10,salvador_dali,-0.2655262506828168,5
+20,4,10,scifi,-0.09365631299304102,5
+20,4,10,studio,-0.12828336255537612,5
+20,4,10,takashi_murakami,-0.10436445196764182,5
+20,4,10,unreal_engine,0.04588187739349173,5
+20,4,10,van_gogh,0.3038387791200728,5
+20,10,8,anime,-0.19297845486967238,5
+20,10,8,detailed_portrait,0.341260999453138,5
+20,10,8,edward_hopper,-0.16321824415218478,5
+20,10,8,face_and_lighting,0.34287097990154924,5
+20,10,8,gta_v,0.030387838941041016,5
+20,10,8,ibrahim_el_salahi,0.06827776474592756,5
+20,10,8,jean-michel_basquiat,0.0016094248283612409,5
+20,10,8,kerry_james_marshall,-0.21993663420798498,5
+20,10,8,laura_wheeler_waring,0.08891055156675133,5
+20,10,8,leonardo_da_vinci,-0.09810530885129845,5
+20,10,8,louise bourgeois,0.45605702736989334,5
+20,10,8,ma_jir_bo,-0.08375825735518184,5
+20,10,8,marta_minujín,0.11034678695382251,5
+20,10,8,medieval,-0.1499590588649266,5
+20,10,8,oil_on_canvas,0.014770715534142317,5
+20,10,8,salvador_dali,0.23636435586293042,5
+20,10,8,scifi,0.16401160721072106,5
+20,10,8,studio,0.12451396747273313,5
+20,10,8,takashi_murakami,-0.11947943785435294,5
+20,10,8,unreal_engine,0.22458553342150084,5
+20,10,8,van_gogh,-0.04169541401624157,5
+20,10,12,anime,0.2105215254756377,5
+20,10,12,detailed_portrait,-0.22654027369716745,5
+20,10,12,edward_hopper,-0.27432806109096997,5
+20,10,12,face_and_lighting,-0.07748189989219491,5
+20,10,12,gta_v,-0.005592251837597258,5
+20,10,12,ibrahim_el_salahi,0.0511911616985447,5
+20,10,12,jean-michel_basquiat,-0.225121223500363,5
+20,10,12,kerry_james_marshall,-0.07760440433160926,5
+20,10,12,laura_wheeler_waring,-0.13794559222612826,5
+20,10,12,leonardo_da_vinci,-0.05962159464479369,5
+20,10,12,louise bourgeois,0.39871685881546326,5
+20,10,12,ma_jir_bo,-0.07856709398481156,5
+20,10,12,marta_minujín,-0.008132284046475079,5
+20,10,12,medieval,0.2920364506097876,5
+20,10,12,oil_on_canvas,-0.045483928622697574,5
+20,10,12,salvador_dali,-0.11178487420879597,5
+20,10,12,scifi,-0.1749950345018323,5
+20,10,12,studio,-0.025991391498194735,5
+20,10,12,takashi_murakami,0.2860364654574388,5
+20,10,12,unreal_engine,-0.012497942542910393,5
+20,10,12,van_gogh,-0.09756889384696713,5
+50,8,7,anime,-0.18596076822418484,5
+50,8,7,detailed_portrait,0.07408930957477218,5
+50,8,7,edward_hopper,-0.17832378732473148,5
+50,8,7,face_and_lighting,-0.04015700141493594,5
+50,8,7,gta_v,-0.06031336064323284,5
+50,8,7,ibrahim_el_salahi,0.227258604332668,5
+50,8,7,jean-michel_basquiat,-0.08878967763735815,5
+50,8,7,kerry_james_marshall,-0.1363202966041111,5
+50,8,7,laura_wheeler_waring,-0.2215789177148028,5
+50,8,7,leonardo_da_vinci,0.05479877317191966,5
+50,8,7,louise bourgeois,-0.1215427502269172,5
+50,8,7,ma_jir_bo,-0.13521722559570126,5
+50,8,7,marta_minujín,0.05933175603623874,5
+50,8,7,medieval,-0.129253596063756,5
+50,8,7,oil_on_canvas,-0.13349747004476473,5
+50,8,7,salvador_dali,-0.0845958087293005,5
+50,8,7,scifi,-0.0984959498459228,5
+50,8,7,studio,-0.20439877824804661,5
+50,8,7,takashi_murakami,-0.12263589130871752,5
+50,8,7,unreal_engine,0.10743387905547092,5
+50,8,7,van_gogh,0.026087976724116103,5
+50,8,11,anime,-0.057447937837112134,5
+50,8,11,detailed_portrait,-0.2510324178152698,5
+50,8,11,edward_hopper,0.05688370899185375,5
+50,8,11,face_and_lighting,-0.09345631572060242,5
+50,8,11,gta_v,-0.12419684142224327,5
+50,8,11,ibrahim_el_salahi,-0.1791995271740929,5
+50,8,11,jean-michel_basquiat,0.21317722868128874,5
+50,8,11,kerry_james_marshall,-0.08166251808725636,5
+50,8,11,laura_wheeler_waring,-0.1665716612074996,5
+50,8,11,leonardo_da_vinci,0.1466704922477189,5
+50,8,11,louise bourgeois,0.014105618283973196,5
+50,8,11,ma_jir_bo,-0.10030744903441183,5
+50,8,11,marta_minujín,-0.1667586450053062,5
+50,8,11,medieval,-0.08948371179843176,5
+50,8,11,oil_on_canvas,-0.05778777630394657,5
+50,8,11,salvador_dali,0.25646595293624713,5
+50,8,11,scifi,-0.18550232119636187,5
+50,8,11,studio,0.015249661629048944,5
+50,8,11,takashi_murakami,-0.1381754072470917,5
+50,8,11,unreal_engine,-0.09016347817584541,5
+50,8,11,van_gogh,-0.12236117967534849,5
+75,4,7,franck_slama,0.5911025336454749,5
+75,4,7,jackson_pollock,-0.636795215672297,5
+75,4,7,keith_haring,0.13313339313356676,5
+75,4,7,movie: 28-Days-Later,1.0,5
+75,4,7,movie: Almost-Famous,-1.0,5
+75,4,7,movie: American-President-The,1.0,5
+75,4,7,movie: Blade-Runner,1.0,5
+75,4,7,movie: Blue-Valentine,-0.9999999999999998,5
+75,4,7,movie: Cobb,1.0,5
+75,4,7,movie: Da-5-Bloods,-0.9999999999999999,5
+75,4,7,movie: Dances-with-Wolves,-1.0,5
+75,4,7,movie: Deadpool,0.9999999999999999,5
+75,4,7,movie: Ferris-Buellers-Day-Off,1.0,5
+75,4,7,movie: Ill-See-You-in-My-Dreams,1.0,5
+75,4,7,movie: Last-Samurai-The,-1.0,5
+75,4,7,movie: Last-of-the-Mohicans-The,1.0,5
+75,4,7,movie: Les-Tontons-Flingueurs,1.0,5
+75,4,7,movie: Lost-Souls,1.0,5
+75,4,7,movie: Magnolia,-1.0,5
+75,4,7,movie: My-Week-with-Marilyn,-1.0,5
+75,4,7,movie: Newsies,1.0,5
+75,4,7,movie: Rush,-0.9999999999999999,5
+75,4,7,movie: Shipping-News-The,1.0,5
+75,4,7,movie: Silver-Bullet,1.0,5
+75,4,7,movie: Single-White-Female,0.27041169664408143,5
+75,4,7,movie: Tin-Cup,-1.0,5
+75,4,7,movie: Tower-Heist,1.0,5
+75,4,7,movie: Transformers-The-Movie,-1.0,5
+75,4,7,movie: Wind-Chill,1.0,5
+75,4,7,movie: Woman-in-Gold,1.0,5
+75,4,7,movie: Wonder-Woman,1.0,5
+75,4,7,shepard_fairey,0.42006978848823334,5
+75,4,8,franck_slama,-0.5162550643979498,5
+75,4,8,juan_gris,-0.5668481153771475,5
+75,4,8,keith_haring,0.011770468938276404,5
+75,4,8,movie: Aliens,1.0,5
+75,4,8,movie: Almost-Famous,-1.0,5
+75,4,8,movie: Arctic-Blue,-1.0,5
+75,4,8,movie: Birthday-Girl,1.0,5
+75,4,8,movie: Bodyguard,1.0,5
+75,4,8,movie: Cooler-The,1.0,5
+75,4,8,movie: Curious-Case-of-Benjamin-Button-The,1.0,5
+75,4,8,movie: Disaster-Artist-The,1.0,5
+75,4,8,movie: Eternal-Sunshine-of-the-Spotless-Mind,-0.33064286712624863,5
+75,4,8,movie: Fantastic-Four,1.0,5
+75,4,8,movie: Flash-Gordon,-1.0,5
+75,4,8,movie: Fugitive-The,0.9999999999999998,5
+75,4,8,movie: Godfather-Part-III-The,1.0,5
+75,4,8,movie: Hackers,-1.0,5
+75,4,8,movie: Hudson-Hawk,-1.0,5
+75,4,8,movie: Insider-The,0.9999999999999998,5
+75,4,8,movie: It,-1.0,5
+75,4,8,movie: Lincoln,-1.0,5
+75,4,8,movie: Mulholland-Drive,-0.9999999999999998,5
+75,4,8,movie: Nightmare-on-Elm-Street-The-Final-Chapter,1.0,5
+75,4,8,movie: Nurse-Betty,-0.8070142032686819,5
+75,4,8,movie: Peeping-Tom,-1.0,5
+75,4,8,movie: Plastic-Man-The,1.0,5
+75,4,8,movie: Revenant-The,-1.0,5
+75,4,8,movie: Rush-Hour,1.0,5
+75,4,8,movie: Star-Wars-A-New-Hope,1.0,5
+75,4,8,movie: Terminator,0.44479049341058263,5
+75,4,8,movie: This-Boys-Life,-1.0,5
+75,4,8,movie: Witness,1.0,5
+75,4,8,movie: Wonder-Woman,1.0,5
+75,4,8,shepard_fairey,-0.3444801978204364,5
+75,4,9,jackson_pollock,0.2400424483618647,5
+75,4,9,juan_gris,0.9931019868146833,5
+75,4,9,keith_haring,-0.6477796529446145,5
+75,4,9,movie: 3-Kings,1.0,5
+75,4,9,movie: Bringing-Out-the-Dead,-0.9999999999999999,5
+75,4,9,movie: Colette,1.0,5
+75,4,9,movie: Cowboys-Aliens,0.9999999999999998,5
+75,4,9,movie: Ed-Wood,1.0,5
+75,4,9,movie: Farewell-The,1.0,5
+75,4,9,movie: Fugitive-The,-1.0,5
+75,4,9,movie: Full-Metal-Jacket,0.9999999999999999,5
+75,4,9,movie: Gladiator,1.0,5
+75,4,9,movie: Gone-Baby-Gone,-1.0,5
+75,4,9,movie: Hard-Rain,-1.0,5
+75,4,9,movie: Hudson-Hawk,0.9999999999999999,5
+75,4,9,movie: Interstellar,-0.9918011246460718,5
+75,4,9,movie: Knives-Out,0.9937082856194491,5
+75,4,9,movie: Lord-of-the-Rings-Fellowship-of-the-Ring-The,1.0,5
+75,4,9,movie: Man-in-the-Iron-Mask,-1.0,5
+75,4,9,movie: Marley-Me,0.9999999999999998,5
+75,4,9,movie: Megamind,1.0,5
+75,4,9,movie: Metro,-1.0,5
+75,4,9,movie: Monkeybone,1.0,5
+75,4,9,movie: One-Flew-Over-the-Cuckoos-Nest,1.0,5
+75,4,9,movie: Pleasantville,-0.9999999999999999,5
+75,4,9,movie: Precious,-1.0,5
+75,4,9,movie: Road-The,-1.0,5
+75,4,9,movie: Rush-Hour,1.0,5
+75,4,9,movie: Scary-Movie-2,0.3905405352323006,5
+75,4,9,movie: Sleepy-Hollow,-1.0,5
+75,4,9,movie: Sunshine-Cleaning,-0.18445253390385805,5
+75,4,9,movie: Tombstone,0.9999999999999999,5
+75,4,9,movie: Two-For-The-Money,-0.2753431318176332,5
+75,4,9,shepard_fairey,-0.02550743011720476,5
+75,4,10,franck_slama,1.0,5
+75,4,10,jackson_pollock,0.24113461525476973,5
+75,4,10,juan_gris,-0.04296081298868529,5
+75,4,10,keith_haring,0.7924816788607805,5
+75,4,10,movie: Big-Fish,-0.9999999999999998,5
+75,4,10,movie: Book-of-Eli-The,-1.0,5
+75,4,10,movie: Contact,1.0,5
+75,4,10,movie: Crime-Spree,-1.0,5
+75,4,10,movie: Game-The,1.0,5
+75,4,10,movie: Ghost-Ship,1.0,5
+75,4,10,movie: Hancock,-1.0,5
+75,4,10,movie: Harold-and-Maude,1.0,5
+75,4,10,movie: Hostage,1.0,5
+75,4,10,movie: I-Still-Know-What-You-Did-Last-Summer,-0.9999999999999999,5
+75,4,10,movie: Indiana-Jones-IV,-0.9557444525718678,5
+75,4,10,movie: Insider-The,-1.0,5
+75,4,10,movie: Labor-of-Love,1.0,5
+75,4,10,movie: Outbreak,-1.0,5
+75,4,10,movie: Petulia,-1.0,5
+75,4,10,movie: Postman-The,1.0,5
+75,4,10,movie: Se7en,-1.0,5
+75,4,10,movie: Signs,1.0,5
+75,4,10,movie: Tremors,-0.980151799522738,5
+75,4,10,movie: Twilight,-0.9999999999999998,5
+75,4,10,shepard_fairey,-0.2009577692537639,5
+75,4,11,franck_slama,0.1520015747465078,5
+75,4,11,jackson_pollock,1.0,5
+75,4,11,juan_gris,-0.2549206726587151,5
+75,4,11,keith_haring,0.5122895217642425,5
+75,4,11,movie: Alien-3,-1.0,5
+75,4,11,movie: American-Gangster,-1.0,5
+75,4,11,movie: Assignment-The,1.0,5
+75,4,11,movie: Collateral-Damage,-1.0,5
+75,4,11,movie: Cradle-2-the-Grave,-0.9999999999999998,5
+75,4,11,movie: Day-of-the-Dead,-0.9999999999999999,5
+75,4,11,movie: Heist,-1.0,5
+75,4,11,movie: Henry-Fool,-0.536590992070206,5
+75,4,11,movie: Hunger-Games-The,0.9999999999999999,5
+75,4,11,movie: Its-a-Wonderful-Life,1.0,5
+75,4,11,movie: Men-Who-Stare-at-Goats-The,-1.0,5
+75,4,11,movie: Metro,1.0,5
+75,4,11,movie: Mollys-Game,1.0,5
+75,4,11,movie: Mute-Witness,1.0,5
+75,4,11,movie: Patriot-The,1.0,5
+75,4,11,movie: Postman-The,-1.0,5
+75,4,11,movie: Seven,0.9999999999999999,5
+75,4,11,movie: Smokin-Aces,0.9999999999999999,5
+75,4,11,movie: Stuntman-The,0.9999999999999998,5
+75,4,11,movie: Win-Win,-1.0,5
+75,4,11,movie: xXx,1.0,5
+75,4,11,shepard_fairey,0.92638684596736,5
+75,4,12,franck_slama,-0.38259708357306216,5
+75,4,12,jackson_pollock,-0.02066294943219609,5
+75,4,12,juan_gris,0.5157430043055378,5
+75,4,12,keith_haring,0.5422030210807551,5
+75,4,12,movie: 17-Again,1.0,5
+75,4,12,movie: Big-Lebowski-The,-0.9288625073599129,5
+75,4,12,movie: Broadcast-News,-1.0,5
+75,4,12,movie: Cable-Guy,0.9999999999999999,5
+75,4,12,movie: Ed-Wood,-1.0,5
+75,4,12,movie: Erin-Brockovich,1.0,5
+75,4,12,movie: Frankenstein,-1.0,5
+75,4,12,movie: Get-on-Up,-1.0,5
+75,4,12,movie: Hurt-Locker-The,-1.0,5
+75,4,12,movie: Man-Who-Knew-Too-Much-The,1.0,5
+75,4,12,movie: Man-in-the-Iron-Mask,-1.0,5
+75,4,12,movie: Midnight-Run,-1.0,5
+75,4,12,movie: Oblivion,1.0,5
+75,4,12,movie: Save-the-Last-Dance,1.0,5
+75,4,12,movie: Seven,-1.0,5
+75,4,12,movie: To-Sleep-With-Anger,-1.0,5
+75,4,12,movie: True-Lies,-1.0,5
+75,4,12,shepard_fairey,-0.11444307615160598,5
+75,4,13,franck_slama,-0.2659481567638235,5
+75,4,13,jackson_pollock,0.5799778202975822,5
+75,4,13,juan_gris,0.1582709928852536,5
+75,4,13,keith_haring,0.3480855830296568,5
+75,4,13,movie: 28-Days-Later,0.9702611102122219,5
+75,4,13,movie: All-the-Presidents-Men,-1.0,5
+75,4,13,movie: Beasts-of-No-Nation,0.9999999999999999,5
+75,4,13,movie: Cellular,-1.0,5
+75,4,13,movie: Crow-Salvation-The,0.9999999999999998,5
+75,4,13,movie: Departed-The,1.0,5
+75,4,13,movie: Detroit-Rock-City,-1.0,5
+75,4,13,movie: Godfather,-1.0,5
+75,4,13,movie: Heat,1.0,5
+75,4,13,movie: In-the-Bedroom,-1.0,5
+75,4,13,movie: It,1.0,5
+75,4,13,movie: Judge-Dredd,1.0,5
+75,4,13,movie: Kill-Bill,0.9212313132779396,5
+75,4,13,movie: Le-Diable-par-la-Queue,0.9999999999999999,5
+75,4,13,movie: Mariachi-El,-1.0,5
+75,4,13,movie: Martian-The,-0.9999999999999999,5
+75,4,13,movie: Mission-to-Mars,-0.9999999999999999,5
+75,4,13,movie: Next-Three-Days-The,1.0,5
+75,4,13,movie: Pet-Sematary-II,0.9999999999999998,5
+75,4,13,movie: Planet-of-the-Apes-The,-1.0,5
+75,4,13,movie: Rambling-Rose,-1.0,5
+75,4,13,movie: Save-the-Last-Dance,-0.9999999999999999,5
+75,4,13,movie: Someone-To-Watch-Over-Me,-0.9999999999999999,5
+75,4,13,movie: The-Irishman,-1.0,5
+75,4,13,movie: xXx,1.0,5
+75,4,13,shepard_fairey,-0.2022385769668486,5
+75,4,14,franck_slama,-0.006504998358561632,5
+75,4,14,jackson_pollock,-0.6544595739090792,5
+75,4,14,keith_haring,-0.6990652083280534,5
+75,4,14,movie: Croods-The,-1.0,5
+75,4,14,movie: Crow-Salvation-The,1.0,5
+75,4,14,movie: Dances-with-Wolves,-1.0,5
+75,4,14,movie: Majestic-The-The,-1.0,5
+75,4,14,movie: Minari,0.9999999999999999,5
+75,4,14,movie: Ninotchka,1.0,5
+75,4,14,movie: Pet-Sematary,-0.628564549328429,5
+75,4,14,movie: TMNT,-1.0,5
+75,4,14,movie: The-Bourne-Supremacy,1.0,5
+75,4,14,movie: Thing-The,1.0,5
+75,4,14,movie: Tombstone,1.0,5
+75,4,14,shepard_fairey,0.14437911999118525,5
+75,4,15,franck_slama,-0.10516779947279731,5
+75,4,15,jackson_pollock,0.1298888110355563,5
+75,4,15,juan_gris,-0.05537477295067625,5
+75,4,15,keith_haring,0.4522567282294866,5
+75,4,15,movie: 20th-Century-Women,-1.0,5
+75,4,15,movie: American-Hustle,-1.0,5
+75,4,15,movie: Avengers-Endgame,-1.0,5
+75,4,15,movie: Backdraft,1.0,5
+75,4,15,movie: Batman,0.9999999999999999,5
+75,4,15,movie: Coco,-1.0,5
+75,4,15,movie: Crow-The,1.0,5
+75,4,15,movie: Fabulous-Baker-Boys-The,-0.9999999999999999,5
+75,4,15,movie: Frozen,1.0,5
+75,4,15,movie: Hebrew-Hammer-The,-1.0,5
+75,4,15,movie: Interstellar,-1.0,5
+75,4,15,movie: Man-Who-Knew-Too-Much-The,0.7280142884533419,5
+75,4,15,movie: Midnight-Cowboy,-1.0,5
+75,4,15,movie: Midsommar,1.0,5
+75,4,15,movie: Out-of-Sight,-1.0,5
+75,4,15,movie: Peeping-Tom,0.9999999999999999,5
+75,4,15,movie: Shifty,-1.0,5
+75,4,15,movie: Siege-The,-0.9999999999999999,5
+75,4,15,movie: Twins,-1.0,5
+75,4,15,movie: Vertigo,1.0,5
+75,4,15,movie: Whos-Your-Daddy,-0.9999999999999999,5
+75,4,15,movie: Wild-Wild-West,0.9822535719253144,5
+75,4,15,movie: Wind-Chill,1.0,5
+75,4,15,movie: Wonder-Boys,1.0,5
+75,4,15,shepard_fairey,-0.7260334000503068,5
+75,7,7,franck_slama,-0.8174118093144852,5
+75,7,7,jackson_pollock,-0.5290537494524519,5
+75,7,7,juan_gris,-0.29547186680384424,5
+75,7,7,keith_haring,0.25527137570467257,5
+75,7,7,movie: Austin-Powers-International-Man-of-Mystery,-1.0,5
+75,7,7,movie: Blue-Valentine,1.0,5
+75,7,7,movie: Body-Heat,1.0,5
+75,7,7,movie: Boxtrolls-The,-1.0,5
+75,7,7,movie: Day-of-the-Dead,1.0,5
+75,7,7,movie: Death-to-Smoochy,1.0,5
+75,7,7,movie: Deep-Rising,1.0,5
+75,7,7,movie: Doors-The,-0.9999999999999999,5
+75,7,7,movie: Florida-Project-The,-0.7715865557123719,5
+75,7,7,movie: Godfather-Part-II,0.9999999999999998,5
+75,7,7,movie: Godzilla,1.0,5
+75,7,7,movie: Indiana-Jones-Last-Crusade,1.0,5
+75,7,7,movie: Interstellar,-0.8922584868005988,5
+75,7,7,movie: Little-Athens,0.9999999999999999,5
+75,7,7,movie: Rear-Window,0.9999999999999998,5
+75,7,7,movie: Surfer-King-The,1.0,5
+75,7,7,movie: Taxi-Driver,-1.0,5
+75,7,7,movie: Three-Musketeers-The,1.0,5
+75,7,7,movie: Tomb-Raider,1.0,5
+75,7,7,movie: V-for-Vendetta,1.0,5
+75,7,7,shepard_fairey,-0.31905828385259055,5
+75,7,8,franck_slama,0.3447708631359254,5
+75,7,8,jackson_pollock,0.34017933150876056,5
+75,7,8,juan_gris,-0.4769469910712972,5
+75,7,8,keith_haring,0.2632605007933401,5
+75,7,8,movie: A-Prayer-Before-Dawn,-1.0,5
+75,7,8,movie: Aeronauts-The,-1.0,5
+75,7,8,movie: Charlies-Angels,-1.0,5
+75,7,8,movie: Deadpool,1.0,5
+75,7,8,movie: Donnie-Darko,-1.0,5
+75,7,8,movie: Face-Off,-1.0,5
+75,7,8,movie: Gattaca,1.0,5
+75,7,8,movie: Heist,1.0,5
+75,7,8,movie: How-to-Train-Your-Dragon-2,-1.0,5
+75,7,8,movie: King-of-Comedy-The,1.0,5
+75,7,8,movie: Knives-Out,1.0,5
+75,7,8,movie: Lord-of-Illusions,0.9999999999999999,5
+75,7,8,movie: Lord-of-the-Rings-Fellowship-of-the-Ring-The,1.0,5
+75,7,8,movie: MASH,1.0,5
+75,7,8,movie: Mummy-The,-1.0,5
+75,7,8,movie: Nurse-Betty,-0.9999999999999999,5
+75,7,8,movie: Patriot-The,-1.0,5
+75,7,8,movie: Rise-of-the-Guardians,-1.0,5
+75,7,8,movie: Silver-Bullet,-1.0,5
+75,7,8,movie: Social-Network-The,1.0,5
+75,7,8,movie: Tenet,-1.0,5
+75,7,8,movie: The-African-Queen,1.0,5
+75,7,8,movie: Timber-Falls,-1.0,5
+75,7,8,movie: Tinker-Tailor-Solider-Spy,-1.0,5
+75,7,8,movie: World-is-not-Enough-The,1.0,5
+75,7,8,movie: X-Files-The,-1.0,5
+75,7,8,movie: X-Men,1.0,5
+75,7,8,shepard_fairey,-0.15707124684954923,5
+75,7,9,franck_slama,-0.7487098597647356,5
+75,7,9,jackson_pollock,-0.21085903432438857,5
+75,7,9,juan_gris,0.19378800465642448,5
+75,7,9,keith_haring,-0.23049275783689738,5
+75,7,9,movie: 28-Days-Later,-0.5549812854705464,5
+75,7,9,movie: Ali,1.0,5
+75,7,9,movie: Armageddon,1.0,5
+75,7,9,movie: Big-Blue-The,-1.0,5
+75,7,9,movie: Broadcast-News,-1.0,5
+75,7,9,movie: Butterfly-Effect-The,-1.0,5
+75,7,9,movie: Cider-House-Rules-The,-1.0,5
+75,7,9,movie: Dances-with-Wolves,1.0,5
+75,7,9,movie: Event-Horizon,1.0,5
+75,7,9,movie: Fargo,-1.0,5
+75,7,9,movie: Fault-in-Our-Stars-The,1.0,5
+75,7,9,movie: Florida-Project-The,1.0,5
+75,7,9,movie: Ghost-World,1.0,5
+75,7,9,movie: Godfather,-0.923891513227979,5
+75,7,9,movie: King-Kong,-1.0,5
+75,7,9,movie: Man-on-the-Moon,-1.0,5
+75,7,9,movie: Manhattan-Murder-Mystery,1.0,5
+75,7,9,movie: Men-in-Black,-1.0,5
+75,7,9,movie: Sister-Act,0.6977667193143118,5
+75,7,9,movie: Sixth-Sense-The,-0.9999999999999999,5
+75,7,9,movie: Star-Wars-Episode-III-Revenge-of-the-Sith,-1.0,5
+75,7,9,movie: Terminator-2,1.0,5
+75,7,9,movie: Win-Win,1.0,5
+75,7,9,movie: Woman-in-Gold,-1.0,5
+75,7,9,shepard_fairey,-0.09127522080810858,5
+75,7,10,franck_slama,1.0,5
+75,7,10,jackson_pollock,0.35012266918422186,5
+75,7,10,juan_gris,-0.27385745612738144,5
+75,7,10,keith_haring,0.5690325907535023,5
+75,7,10,movie: Aliens,-0.18566992250356487,5
+75,7,10,movie: American-Gangster,-1.0,5
+75,7,10,movie: American-President-The,-1.0,5
+75,7,10,movie: Barton-Fink,1.0,5
+75,7,10,movie: Cinema-Paradiso,1.0,5
+75,7,10,movie: Eastern-Promises,1.0,5
+75,7,10,movie: Kundun,0.9999999999999998,5
+75,7,10,movie: Last-Flight-The,-1.0,5
+75,7,10,movie: Lord-of-Illusions,1.0,5
+75,7,10,movie: Miami-Vice,-0.2489816683732146,5
+75,7,10,movie: Nebraska,-1.0,5
+75,7,10,movie: One-Flew-Over-the-Cuckoos-Nest,0.9999999999999998,5
+75,7,10,movie: Pet-Sematary,-0.38524761681934944,5
+75,7,10,movie: Pirates-of-the-Caribbean,-0.9999999999999999,5
+75,7,10,movie: Sex-and-the-City,1.0,5
+75,7,10,movie: Star-Trek-First-Contact,1.0,5
+75,7,10,movie: Star-Wars-Episode-III-Revenge-of-the-Sith,1.0,5
+75,7,10,movie: Witness,-1.0,5
+75,7,10,shepard_fairey,0.8617071325872052,5
+75,7,11,franck_slama,0.6930329473698741,5
+75,7,11,jackson_pollock,-0.2529901950001188,5
+75,7,11,juan_gris,0.7192846800774029,5
+75,7,11,keith_haring,-0.3155185730716607,5
+75,7,11,movie: Analyze-That,-1.0,5
+75,7,11,movie: Bourne-Ultimatum-The,-0.9999999999999999,5
+75,7,11,movie: Danish-Girl-The,-1.0,5
+75,7,11,movie: Elephant-Man-The,1.0,5
+75,7,11,movie: Gone-in-Sixty-Seconds,-1.0,5
+75,7,11,movie: Hebrew-Hammer-The,0.9999999999999999,5
+75,7,11,movie: Her,-1.0,5
+75,7,11,movie: How-to-Train-Your-Dragon,1.0,5
+75,7,11,movie: Imaginarium-of-Doctor-Parnassus-The,0.9999999999999998,5
+75,7,11,movie: Independence-Day,-1.0,5
+75,7,11,movie: Interstellar,1.0,5
+75,7,11,movie: Last-of-the-Mohicans-The,1.0,5
+75,7,11,movie: Lord-of-War,-1.0,5
+75,7,11,movie: Mask-The,-0.9999999999999998,5
+75,7,11,movie: Mumford,-1.0,5
+75,7,11,movie: Public-Enemies,0.9999999999999999,5
+75,7,11,movie: Ringu,-1.0,5
+75,7,11,movie: Shifty,1.0,5
+75,7,11,movie: Thor-Ragnarok,1.0,5
+75,7,11,movie: We-Own-the-Night,1.0,5
+75,7,11,movie: Wild-Things,1.0,5
+75,7,11,movie: Wild-Wild-West,-1.0,5
+75,7,11,movie: Wizard-of-Oz-The,-1.0,5
+75,7,11,movie: X-Men-Origins-Wolverine,-1.0,5
+75,7,11,shepard_fairey,-0.5167317689072318,5
+75,7,12,franck_slama,0.988298162215764,5
+75,7,12,jackson_pollock,-0.044783649804414224,5
+75,7,12,juan_gris,0.625909285417487,5
+75,7,12,keith_haring,-0.324839134131952,5
+75,7,12,movie: 10-Things-I-Hate-About-You,1.0,5
+75,7,12,movie: A-Few-Good-Men,-1.0,5
+75,7,12,movie: Arctic-Blue,1.0,5
+75,7,12,movie: Batman,-1.0,5
+75,7,12,movie: Change-Up-The,0.9999999999999998,5
+75,7,12,movie: Dark-City,1.0,5
+75,7,12,movie: Excalibur,0.9999999999999999,5
+75,7,12,movie: Ginger-Snaps,-0.9999999999999999,5
+75,7,12,movie: Godfather,-1.0,5
+75,7,12,movie: Horse-Whisperer-The,1.0,5
+75,7,12,movie: Mirrors,1.0,5
+75,7,12,movie: Nightmare-on-Elm-Street-The-Final-Chapter,1.0,5
+75,7,12,movie: Nurse-Betty,-1.0,5
+75,7,12,movie: Philadelphia,-1.0,5
+75,7,12,movie: Prometheus,-1.0,5
+75,7,12,movie: Reader-The,-1.0,5
+75,7,12,movie: Seven,0.9999999999999998,5
+75,7,12,movie: Suspect-Zero,1.0,5
+75,7,12,movie: Take-Shelter,-0.9999999999999999,5
+75,7,12,movie: To-Sleep-With-Anger,-1.0,5
+75,7,12,movie: Verdict-The,0.9999999999999998,5
+75,7,12,shepard_fairey,-1.0,5
+75,7,13,franck_slama,0.9999999999999999,5
+75,7,13,jackson_pollock,-0.27295458784214455,5
+75,7,13,juan_gris,0.7116936677150879,5
+75,7,13,keith_haring,0.2126607724878755,5
+75,7,13,movie: Amadeus,-1.0,5
+75,7,13,movie: Batman,-0.9999999999999999,5
+75,7,13,movie: Day-the-Clown-Cried-The,1.0,5
+75,7,13,movie: Frankenstein,1.0,5
+75,7,13,movie: Hanna,-0.9999999999999998,5
+75,7,13,movie: Indiana-Jones-IV,1.0,5
+75,7,13,movie: Insomnia,0.9999999999999999,5
+75,7,13,movie: Interview-with-the-Vampire,0.9999999999999998,5
+75,7,13,movie: Leviathan,0.7246573268312927,5
+75,7,13,movie: Precious,-1.0,5
+75,7,13,movie: Prophecy-The,1.0,5
+75,7,13,movie: Scarlet-Letter-The,1.0,5
+75,7,13,movie: Sleepy-Hollow,-1.0,5
+75,7,13,movie: Tenet,-1.0,5
+75,7,13,movie: X-Files-The,1.0,5
+75,7,13,shepard_fairey,-0.9408795243739481,5
+75,7,14,franck_slama,-0.43940091667024583,5
+75,7,14,jackson_pollock,0.048176674455637024,5
+75,7,14,juan_gris,1.0,5
+75,7,14,keith_haring,0.1396461722182086,5
+75,7,14,movie: 500-Days-of-Summer,-1.0,5
+75,7,14,movie: Airplane,-1.0,5
+75,7,14,movie: Anonymous,1.0,5
+75,7,14,movie: Armageddon,-1.0,5
+75,7,14,movie: Assignment-The,1.0,5
+75,7,14,movie: Batman-Returns,-1.0,5
+75,7,14,movie: Bling-Ring-The,-0.9999999999999999,5
+75,7,14,movie: Cast-Away,-1.0,5
+75,7,14,movie: Cedar-Rapids,0.9999999999999998,5
+75,7,14,movie: Chaos,1.0,5
+75,7,14,movie: Citizen-Kane,-1.0,5
+75,7,14,movie: Crown-The,-1.0,5
+75,7,14,movie: Disturbia,-1.0,5
+75,7,14,movie: Excalibur,1.0,5
+75,7,14,movie: Fantastic-Four,-1.0,5
+75,7,14,movie: Ferris-Buellers-Day-Off,1.0,5
+75,7,14,movie: Game-The,1.0,5
+75,7,14,movie: Garden-State,1.0,5
+75,7,14,movie: Hudson-Hawk,-1.0,5
+75,7,14,movie: Inventing-the-Abbotts,1.0,5
+75,7,14,movie: Klute,-1.0,5
+75,7,14,movie: Le-Diable-par-la-Queue,-1.0,5
+75,7,14,movie: Man-On-Fire,1.0,5
+75,7,14,movie: Mr-Brooks,-1.0,5
+75,7,14,movie: Patriot-The,0.9390312036125165,5
+75,7,14,movie: Pitch-Black,-0.586625481075991,5
+75,7,14,movie: Replacements-The,-0.9999999999999998,5
+75,7,14,movie: Runaway-Bride,0.9999999999999998,5
+75,7,14,movie: Schindlers-List,-1.0,5
+75,7,14,movie: Space-Cowboys,-1.0,5
+75,7,14,movie: They,1.0,5
+75,7,14,movie: Tombstone,-0.9999999999999998,5
+75,7,14,movie: U-Turn,0.9999999999999999,5
+75,7,14,shepard_fairey,0.2711006304097958,5
+75,7,15,franck_slama,-0.06897638632188446,5
+75,7,15,jackson_pollock,-0.5072534079352256,5
+75,7,15,juan_gris,0.9293395466070139,5
+75,7,15,keith_haring,0.16334865996991302,5
+75,7,15,movie: Adjustment-Bureau-The,-1.0,5
+75,7,15,movie: Alien-3,-0.9999999999999998,5
+75,7,15,movie: Anonymous,-1.0,5
+75,7,15,movie: Bounty-Hunter-The,-1.0,5
+75,7,15,movie: Colette,-1.0,5
+75,7,15,movie: Entrapment,-1.0,5
+75,7,15,movie: Ghostbusters-II,1.0,5
+75,7,15,movie: Hostage,0.9999999999999999,5
+75,7,15,movie: Hotel-Rwanda,1.0,5
+75,7,15,movie: Into-the-Woods,1.0,5
+75,7,15,movie: Kramer-versus-Krame,0.9999999999999999,5
+75,7,15,movie: Last-Flight-The,-1.0,5
+75,7,15,movie: Network,-1.0,5
+75,7,15,movie: Next,-0.9999999999999999,5
+75,7,15,movie: Pacifier-The,-1.0,5
+75,7,15,movie: Remember-Me,-1.0,5
+75,7,15,movie: Schindlers-List,-1.0,5
+75,7,15,movie: Surrogates,1.0,5
+75,7,15,movie: Suspect-Zero,1.0,5
+75,7,15,shepard_fairey,-0.7297007118655564,5
+75,8,7,franck_slama,-0.08173057934816656,5
+75,8,7,jackson_pollock,-0.11870490974705632,5
+75,8,7,juan_gris,-0.13883269221198644,5
+75,8,7,keith_haring,-0.037295761453993374,5
+75,8,7,movie: 1492-Conquest-of-Paradise,-0.9999999999999999,5
+75,8,7,movie: 28-Days-Later,-1.0,5
+75,8,7,movie: A-Most-Violent-Year,0.9999999999999998,5
+75,8,7,movie: A-Prayer-Before-Dawn,-0.9930987505802471,5
+75,8,7,movie: Almost-Famous,1.0,5
+75,8,7,movie: Alone-in-the-Dark,-1.0,5
+75,8,7,movie: American-President-The,-0.9999999999999998,5
+75,8,7,movie: American-The,-0.9999999999999999,5
+75,8,7,movie: Amour,-1.0,5
+75,8,7,movie: An-Education,1.0,5
+75,8,7,movie: Antz,0.012872689909162932,5
+75,8,7,movie: Assassin,-0.8925302855500756,5
+75,8,7,movie: Atomic-Submarine,1.0,5
+75,8,7,movie: Awakenings,-1.0,5
+75,8,7,movie: Batman,1.0,5
+75,8,7,movie: Batman-Returns,-1.0,5
+75,8,7,movie: Black-Snake-Moan,-0.9999999999999999,5
+75,8,7,movie: Blade-Trinity,1.0,5
+75,8,7,movie: Body-Snatcher-The,-1.0,5
+75,8,7,movie: Bourne-Identity-The,1.0,5
+75,8,7,movie: Brazil,-0.5163846078299159,5
+75,8,7,movie: Brick,-1.0,5
+75,8,7,movie: Broken-Embraces,-0.12109309429139611,5
+75,8,7,movie: Cider-House-Rules-The,0.2324765686086277,5
+75,8,7,movie: Crank,-1.0,5
+75,8,7,movie: Dances-with-Wolves,-0.9999999999999998,5
+75,8,7,movie: Day-the-Earth-Stood-Still-The,1.0,5
+75,8,7,movie: Deer-Hunter-The,-0.9960454200474058,5
+75,8,7,movie: Despicable-Me-2,-0.9996629239768537,5
+75,8,7,movie: Disaster-Artist-The,1.0,5
+75,8,7,movie: Doors-The,-0.523179890530037,5
+75,8,7,movie: Ed-TV,-1.0,5
+75,8,7,movie: Eight-Legged-Freaks,1.0,5
+75,8,7,movie: Elizabeth-The-Golden-Age,-0.9999999999999999,5
+75,8,7,movie: English-Patient-The,-0.38761567671640373,5
+75,8,7,movie: Even-Cowgirls-Get-the-Blues,0.9999999999999998,5
+75,8,7,movie: Evil-Dead-II-Dead-by-Dawn,1.0,5
+75,8,7,movie: Ex-Machina,1.0,5
+75,8,7,movie: Excalibur,-0.7778590667721765,5
+75,8,7,movie: Eye-in-the-Sky,-1.0,5
+75,8,7,movie: Flash-Gordon,1.0,5
+75,8,7,movie: Florida-Project-The,-0.09723856978309164,5
+75,8,7,movie: Forrest-Gump,1.0,5
+75,8,7,movie: Friday-the-13th,-1.0,5
+75,8,7,movie: Frozen,1.0,5
+75,8,7,movie: GI-Jane,-1.0,5
+75,8,7,movie: Game-The,-1.0,5
+75,8,7,movie: Gandhi,-1.0,5
+75,8,7,movie: Gangs-of-New-York,-0.9559987280221538,5
+75,8,7,movie: Ghost-Rider,-0.9999999999999999,5
+75,8,7,movie: Godfather,-0.8568361057645516,5
+75,8,7,movie: Gods-and-Monsters,-1.0,5
+75,8,7,movie: Gone-in-Sixty-Seconds,-0.9999623661174283,5
+75,8,7,movie: Grabbers,-1.0,5
+75,8,7,movie: Green-Mile-The,-1.0,5
+75,8,7,movie: Grosse-Point-Blank,-1.0,5
+75,8,7,movie: Hannibal,1.0,5
+75,8,7,movie: Heist,-0.9999999999999999,5
+75,8,7,movie: Hellraiser-Hellseeker,1.0,5
+75,8,7,movie: Hostage,-0.28322421009475085,5
+75,8,7,movie: Hotel-Rwanda,-0.3216424656643916,5
+75,8,7,movie: House-of-1000-Corpses,1.0,5
+75,8,7,movie: Hudson-Hawk,0.9999999999999998,5
+75,8,7,movie: Hudsucker-Proxy-The,-1.0,5
+75,8,7,movie: Hunger-Games-The,0.9999999999999998,5
+75,8,7,movie: I-Spit-on-Your-Grave,-1.0,5
+75,8,7,movie: I-Still-Know-What-You-Did-Last-Summer,-1.0,5
+75,8,7,movie: I-Tonya,-0.5547219194288515,5
+75,8,7,movie: Indiana-Jones-IV,0.354954526836048,5
+75,8,7,movie: Inglourious-Basterds,-1.0,5
+75,8,7,movie: Insidious,-1.0,5
+75,8,7,movie: Invisible-Woman-The,1.0,5
+75,8,7,movie: Island-The,-1.0,5
+75,8,7,movie: It,1.0,5
+75,8,7,movie: Jacket-The,1.0,5
+75,8,7,movie: Jimmy-and-Judy,-0.9999999999999998,5
+75,8,7,movie: John-Q,1.0,5
+75,8,7,movie: Joker,-1.0,5
+75,8,7,movie: Judge-Dredd,0.9999999999999999,5
+75,8,7,movie: Jurassic-Park,-1.0,5
+75,8,7,movie: Kalifornia,-1.0,5
+75,8,7,movie: Lake-Placid,-1.0,5
+75,8,7,movie: Last-Samurai-The,-0.5993971700724557,5
+75,8,7,movie: Law-Abiding-Citizen,1.0,5
+75,8,7,movie: Le-Diable-par-la-Queue,-1.0,5
+75,8,7,movie: Lethal-Weapon,-1.0,5
+75,8,7,movie: Man-in-the-Iron-Mask,1.0,5
+75,8,7,movie: Manhattan-Murder-Mystery,0.953239721507151,5
+75,8,7,movie: Mariachi-El,-1.0,5
+75,8,7,movie: Memento,1.0,5
+75,8,7,movie: Memphis-Belle,0.24771479673672422,5
+75,8,7,movie: Midnight-Cowboy,-1.0,5
+75,8,7,movie: Mighty-Joe-Young,-1.0,5
+75,8,7,movie: Minority-Report,0.08420674731970548,5
+75,8,7,movie: My-Week-with-Marilyn,1.0,5
+75,8,7,movie: My-best-Friends-Wedding,1.0,5
+75,8,7,movie: Nightmare-on-Elm-Street-A,1.0,5
+75,8,7,movie: Nine,0.9999999999999999,5
+75,8,7,movie: Ninja-Assassin,1.0,5
+75,8,7,movie: Ninotchka,0.9401866917035641,5
+75,8,7,movie: Nurse-Betty,-1.0,5
+75,8,7,movie: One-Flew-Over-the-Cuckoos-Nest,1.0,5
+75,8,7,movie: Only-You,0.5687233730553833,5
+75,8,7,movie: ParaNorman,-0.9999999999999999,5
+75,8,7,movie: Pawn-Sacrifice,1.0,5
+75,8,7,movie: Perfect-Creature,1.0,5
+75,8,7,movie: Pitch-Black,0.5443410961155748,5
+75,8,7,movie: Planet-of-the-Apes-The,-0.9030917036362889,5
+75,8,7,movie: Possession,1.0,5
+75,8,7,movie: Predator,-1.0,5
+75,8,7,movie: Prestige-The,0.8782591907720758,5
+75,8,7,movie: Pretty-Woman,1.0,5
+75,8,7,movie: Prophecy-The,-1.0,5
+75,8,7,movie: Psycho,-1.0,5
+75,8,7,movie: Rambling-Rose,0.2866264230578032,5
+75,8,7,movie: Rear-Window,1.0,5
+75,8,7,movie: Red-White-Black-and-Blue,-1.0,5
+75,8,7,movie: Reindeer-Games,1.0,5
+75,8,7,movie: Revenant-The,-1.0,5
+75,8,7,movie: Rise-of-the-Planet-of-the-Apes,-1.0,5
+75,8,7,movie: Road-The,-1.0,5
+75,8,7,movie: Romeo-Julie,1.0,5
+75,8,7,movie: Saving-Mr-Banks,0.9999999999999999,5
+75,8,7,movie: Schindlers-List,0.7778420360771184,5
+75,8,7,movie: Searchers-The,0.4477842252134057,5
+75,8,7,movie: Shape-of-Water-The,1.0,5
+75,8,7,movie: Sherlock-Holmes,-1.0,5
+75,8,7,movie: Signs,1.0,5
+75,8,7,movie: Stagecoach,0.9999999999999999,5
+75,8,7,movie: Star-Trek,-1.0,5
+75,8,7,movie: Star-Wars-A-New-Hope,1.0,5
+75,8,7,movie: Strangers-on-a-Train,-1.0,5
+75,8,7,movie: Supergirl,-0.8511628971499909,5
+75,8,7,movie: Suspect-Zero,-1.0,5
+75,8,7,movie: Sweeney-Todd-The-Demon-Barber-of-Fleet-Street,-1.0,5
+75,8,7,movie: Talented-Mr-Ripley-The,-1.0,5
+75,8,7,movie: Tamara-Drewe,0.9999999999999998,5
+75,8,7,movie: Taxi-Driver,-1.0,5
+75,8,7,movie: The-Irishman,1.0,5
+75,8,7,movie: Thelma-Louise,1.0,5
+75,8,7,movie: They,1.0,5
+75,8,7,movie: Thirteen-Days,1.0,5
+75,8,7,movie: Thor-Ragnarok,-0.8489519308292097,5
+75,8,7,movie: Three-Kings,-0.6570469198325564,5
+75,8,7,movie: Thunderheart,-0.8270614437599711,5
+75,8,7,movie: Tin-Cup,0.9999999999999999,5
+75,8,7,movie: Transformers-The-Movie,0.5215228003069484,5
+75,8,7,movie: Tremors,1.0,5
+75,8,7,movie: True-Romance,-1.0,5
+75,8,7,movie: Truman-Show-The,0.786967316615039,5
+75,8,7,movie: Under-Fire,-0.9999999999999998,5
+75,8,7,movie: Vertigo,1.0,5
+75,8,7,movie: War-for-the-Planet-of-the-Apes,0.9999999999999999,5
+75,8,7,movie: Warm-Springs,0.6433275795631046,5
+75,8,7,movie: Way-Back-The,1.0,5
+75,8,7,shepard_fairey,-0.34653894032444643,5
+75,8,8,franck_slama,-0.31559457552149955,5
+75,8,8,jackson_pollock,0.29419209731158413,5
+75,8,8,juan_gris,-0.24144478300044347,5
+75,8,8,keith_haring,-0.15148343866245617,5
+75,8,8,movie: 127-Hours,-1.0,5
+75,8,8,movie: A-Most-Violent-Year,-1.0,5
+75,8,8,movie: Absolute-Power,1.0,5
+75,8,8,movie: Abyss-The,1.0,5
+75,8,8,movie: Adaptation,0.7509437823800765,5
+75,8,8,movie: AfterLife,1.0,5
+75,8,8,movie: Alien-Nation,1.0,5
+75,8,8,movie: American-Gangster,-0.9999999999999998,5
+75,8,8,movie: American-Shaolin-King-of-Kickboxers-II,-0.22787704798988584,5
+75,8,8,movie: An-Education,-1.0,5
+75,8,8,movie: Anchorman,-1.0,5
+75,8,8,movie: Animal-Kingdom,-1.0,5
+75,8,8,movie: Anna-Karenina,-1.0,5
+75,8,8,movie: Anonymous,0.6374653572688614,5
+75,8,8,movie: Antz,0.9999999999999998,5
+75,8,8,movie: Apollo-13,-0.9779408894297421,5
+75,8,8,movie: Arcade,-1.0,5
+75,8,8,movie: Assignment-The,-1.0,5
+75,8,8,movie: Atomic-Submarine,0.9999999999999999,5
+75,8,8,movie: Babel,1.0,5
+75,8,8,movie: Bad-Lieutenant,-0.9999999999999999,5
+75,8,8,movie: Batman-2,1.0,5
+75,8,8,movie: Batman-and-Robin,0.4145720583459562,5
+75,8,8,movie: Bean,-1.0,5
+75,8,8,movie: Being-Human,0.1933451378499368,5
+75,8,8,movie: Best-Exotic-Marigold-Hotel-The,-0.22304070477647,5
+75,8,8,movie: Blade,0.9999999999999999,5
+75,8,8,movie: Blade-II,-1.0,5
+75,8,8,movie: Body-Heat,-1.0,5
+75,8,8,movie: Body-Snatcher-The,-0.9999999999999998,5
+75,8,8,movie: Bones,1.0,5
+75,8,8,movie: Box-The,-1.0,5
+75,8,8,movie: Broken-Embraces,-0.9999999999999998,5
+75,8,8,movie: Cars-2,0.9429601682777149,5
+75,8,8,movie: Cast-Away,1.0,5
+75,8,8,movie: Chronicle,-1.0,5
+75,8,8,movie: Cliffhanger,-0.2592432081732619,5
+75,8,8,movie: Coco,1.0,5
+75,8,8,movie: Collateral-Damage,1.0,5
+75,8,8,movie: Coraline,0.40152492421787894,5
+75,8,8,movie: Crank,-1.0,5
+75,8,8,movie: Day-the-Clown-Cried-The,1.0,5
+75,8,8,movie: Deception,-0.9847288604045394,5
+75,8,8,movie: Dragonslayer,-1.0,5
+75,8,8,movie: Eternal-Sunshine-of-the-Spotless-Mind,-0.9999999999999999,5
+75,8,8,movie: Field-of-Dreams,1.0,5
+75,8,8,movie: Flash-Gordon,0.97421537500843,5
+75,8,8,movie: Fletch,0.8911367781599413,5
+75,8,8,movie: Forrest-Gump,-0.9999999999999998,5
+75,8,8,movie: Foxtrot,0.5370524116711657,5
+75,8,8,movie: French-Connection-The,1.0,5
+75,8,8,movie: Gandh,-1.0,5
+75,8,8,movie: Ghost,-1.0,5
+75,8,8,movie: Girl-on-a-Train-The,0.9999999999999999,5
+75,8,8,movie: Godfather-Part-II,-0.7896344323366828,5
+75,8,8,movie: Gods-and-Monsters,1.0,5
+75,8,8,movie: Godzilla,1.0,5
+75,8,8,movie: Gone-Girl,1.0,5
+75,8,8,movie: Grapes-of-Wrath-The,0.9999999999999999,5
+75,8,8,movie: Gremlins,1.0,5
+75,8,8,movie: Hall-Pass,1.0,5
+75,8,8,movie: Halloween-The-Curse-of-Michael-Myers,-1.0,5
+75,8,8,movie: Haunting-The,0.44354420040512055,5
+75,8,8,movie: Heat,0.554114969468778,5
+75,8,8,movie: Hes-Just-Not-That-Into-You,1.0,5
+75,8,8,movie: Hesher,1.0,5
+75,8,8,movie: Horse-Whisperer-The,1.0,5
+75,8,8,movie: I-Spit-on-Your-Grave,1.0,5
+75,8,8,movie: I-Walked-with-a-Zombie,-1.0,5
+75,8,8,movie: Imaginarium-of-Doctor-Parnassus-The,-0.9999999999999999,5
+75,8,8,movie: Imitation-Game,0.9999999999999999,5
+75,8,8,movie: Indiana-Jones-IV,-0.9984395932581279,5
+75,8,8,movie: Interstellar,0.9873622355253517,5
+75,8,8,movie: Interview-with-the-Vampire,-0.9999999999999999,5
+75,8,8,movie: Inventing-the-Abbotts,1.0,5
+75,8,8,movie: Invictus,-0.6918423674928852,5
+75,8,8,movie: Island-The,-0.3016607210315546,5
+75,8,8,movie: It,0.3508018528900993,5
+75,8,8,movie: JFK,-1.0,5
+75,8,8,movie: Jay-and-Silent-Bob-Strike-Back,-0.9999999999999999,5
+75,8,8,movie: Jurassic-Park-III,-1.0,5
+75,8,8,movie: King-Kong,-1.0,5
+75,8,8,movie: Klute,-0.9883455283062398,5
+75,8,8,movie: Last-Flight-The,1.0,5
+75,8,8,movie: Legend-of-Darkness,-0.9999999999999999,5
+75,8,8,movie: Little-Women,1.0,5
+75,8,8,movie: Logan,-1.0,5
+75,8,8,movie: Lord-of-War,0.9999999999999999,5
+75,8,8,movie: Lost-in-Translation,1.0,5
+75,8,8,movie: MASH,-1.0,5
+75,8,8,movie: Machine-Gun-Preacher,1.0,5
+75,8,8,movie: Made-for-Each-Other,1.0,5
+75,8,8,movie: Magnolia,-1.0,5
+75,8,8,movie: Man-On-Fire,1.0,5
+75,8,8,movie: Manhunte,-1.0,5
+75,8,8,movie: Marty,-1.0,5
+75,8,8,movie: Mechanic-The,-1.0,5
+75,8,8,movie: Meet-Joe-Black,1.0,5
+75,8,8,movie: Memento,-0.9999999999999999,5
+75,8,8,movie: Miami-Vice,-1.0,5
+75,8,8,movie: Milk,-1.0,5
+75,8,8,movie: Mudbound,-0.9999999999999999,5
+75,8,8,movie: Mulholland-Drive,-0.9999999999999999,5
+75,8,8,movie: Murderland,-1.0,5
+75,8,8,movie: Nashville,1.0,5
+75,8,8,movie: Next,0.725752818889245,5
+75,8,8,movie: Next-Three-Days-The,-1.0,5
+75,8,8,movie: Nightmare-on-Elm-Street-A,1.0,5
+75,8,8,movie: Nomadland,-1.0,5
+75,8,8,movie: Pariah,1.0,5
+75,8,8,movie: Perks-of-Being-a-Wallflower-The,1.0,5
+75,8,8,movie: Pirates-of-the-Caribbean,0.9942193611559836,5
+75,8,8,movie: Platoon,0.12611693170965768,5
+75,8,8,movie: Pleasantville,-0.7936313548386268,5
+75,8,8,movie: Power-of-One-The,-1.0,5
+75,8,8,movie: Predator,-0.1487564964761255,5
+75,8,8,movie: Pride-and-Prejudice,-1.0,5
+75,8,8,movie: Relic-The,-0.9983755822972921,5
+75,8,8,movie: Resident-Evil,-0.8433814547950234,5
+75,8,8,movie: Romeo-Julie,-1.0,5
+75,8,8,movie: Ruins-The,1.0,5
+75,8,8,movie: Rush-Hour,-0.6288276204692255,5
+75,8,8,movie: Rust-and-Bone,-1.0,5
+75,8,8,movie: Saint-The,-1.0,5
+75,8,8,movie: Salt-of-the-Earth,1.0,5
+75,8,8,movie: Seven,1.0,5
+75,8,8,movie: Sherlock-Holmes,1.0,5
+75,8,8,movie: Snow-Falling-On-Cedars,0.9326955954199823,5
+75,8,8,movie: Star-Wars-Episode-III-Revenge-of-the-Sith,0.5919268051206736,5
+75,8,8,movie: Starman,-1.0,5
+75,8,8,movie: Sting-The,1.0,5
+75,8,8,movie: Sunshine-Cleaning,-1.0,5
+75,8,8,movie: Super-8,-1.0,5
+75,8,8,movie: Suspect-Zero,-0.9999999999999998,5
+75,8,8,movie: The-Adventures-of-Buckaroo-Banzai-Across-the-8th-Dimension,1.0,5
+75,8,8,movie: The-Apartmen,-1.0,5
+75,8,8,movie: Thelma-Louise,-1.0,5
+75,8,8,movie: Timber-Falls,-0.4281371333451805,5
+75,8,8,movie: Tin-Cup,-1.0,5
+75,8,8,movie: Tomb-Raider,0.9602270328654468,5
+75,8,8,movie: Tombstone,1.0,5
+75,8,8,movie: Tremors,-0.9999999999999998,5
+75,8,8,movie: Twin-Peaks,-1.0,5
+75,8,8,movie: U-Turn,-1.0,5
+75,8,8,movie: Un-Singe-en-Hiver,0.7108686088232142,5
+75,8,8,movie: V-for-Vendetta,0.9999999999999999,5
+75,8,8,movie: Valkyrie,1.0,5
+75,8,8,movie: Walk-to-Remember-A,1.0,5
+75,8,8,movie: Wall-E,-0.5186233937664707,5
+75,8,8,movie: War-Horse,0.9631176612645639,5
+75,8,8,movie: War-for-the-Planet-of-the-Apes,-1.0,5
+75,8,8,movie: White-Jazz,-0.9286030084466701,5
+75,8,8,movie: Who-Framed-Roger-Rabbit,-0.3655190118290925,5
+75,8,8,movie: Wild-Bunch-The,-0.9999999999999998,5
+75,8,8,movie: Wild-Hogs,1.0,5
+75,8,8,movie: Wild-Things,-0.8693974162683702,5
+75,8,8,movie: Willow,0.9999999999999998,5
+75,8,8,movie: Wind-Chill,-1.0,5
+75,8,8,movie: Woman-in-Gold,1.0,5
+75,8,8,movie: World-is-not-Enough-The,-1.0,5
+75,8,8,movie: Zootopia,-1.0,5
+75,8,8,shepard_fairey,-0.0351981594852055,5
+75,8,9,franck_slama,-0.46419699554361393,5
+75,8,9,jackson_pollock,-0.016192387475607355,5
+75,8,9,juan_gris,0.043098678612403546,5
+75,8,9,keith_haring,-0.2738021871567784,5
+75,8,9,movie: 44-Inch-Chest,-1.0,5
+75,8,9,movie: A-Prayer-Before-Dawn,-1.0,5
+75,8,9,movie: Adaptation,1.0,5
+75,8,9,movie: Airplane,-1.0,5
+75,8,9,movie: Alien-vs-Predator,1.0,5
+75,8,9,movie: Alone-in-the-Dark,0.9999999999999999,5
+75,8,9,movie: American-Gangster,0.5521102134082067,5
+75,8,9,movie: Amityville-Asylum-The,1.0,5
+75,8,9,movie: Armageddon,1.0,5
+75,8,9,movie: Atomic-Submarine,-1.0,5
+75,8,9,movie: Austin-Powers-International-Man-of-Mystery,-1.0,5
+75,8,9,movie: Avenge,1.0,5
+75,8,9,movie: Bachelor-Party,1.0,5
+75,8,9,movie: Basquia,-1.0,5
+75,8,9,movie: Batman-Returns,0.8105368418670278,5
+75,8,9,movie: Beasts-of-the-Southern-Wild,1.0,5
+75,8,9,movie: Beauty-and-the-Beast,-1.0,5
+75,8,9,movie: Beloved,0.39587220721143557,5
+75,8,9,movie: Big-Eyes,1.0,5
+75,8,9,movie: Big-Fish,0.9999999999999998,5
+75,8,9,movie: Big-Short-The,0.19663051787357952,5
+75,8,9,movie: Birds-The,-1.0,5
+75,8,9,movie: Black-Dahlia-The,0.30825308265477286,5
+75,8,9,movie: Black-Rain,0.05042396403096303,5
+75,8,9,movie: Blade-II,1.0,5
+75,8,9,movie: Blade-Runner,-0.34417151539903457,5
+75,8,9,movie: Blood-Simple,-1.0,5
+75,8,9,movie: Blue-Valentine,0.9999999999999998,5
+75,8,9,movie: Borat-Subsequent-Moviefilm,-0.8711958364718582,5
+75,8,9,movie: Breakdown,0.9999999999999999,5
+75,8,9,movie: Bringing-Out-the-Dead,-0.9999999999999999,5
+75,8,9,movie: Broadcast-News,0.9999999999999999,5
+75,8,9,movie: Broken-Embraces,-1.0,5
+75,8,9,movie: Cars-2,-1.0,5
+75,8,9,movie: Cat-People,-0.8610951645745886,5
+75,8,9,movie: Changeling,1.0,5
+75,8,9,movie: Cider-House-Rules-The,-0.9999999999999999,5
+75,8,9,movie: Cinema-Paradiso,-1.0,5
+75,8,9,movie: City-of-Joy,1.0,5
+75,8,9,movie: Cliffhanger,-1.0,5
+75,8,9,movie: Code-of-Silence,0.9999999999999998,5
+75,8,9,movie: Collateral,0.9950070260679272,5
+75,8,9,movie: Collateral-Damage,1.0,5
+75,8,9,movie: Contact,-1.0,5
+75,8,9,movie: Coriolanus,1.0,5
+75,8,9,movie: Crime-Spree,-0.9999999999999999,5
+75,8,9,movie: Croupier,-1.0,5
+75,8,9,movie: Dallas-Buyers-Club,-1.0,5
+75,8,9,movie: Danish-Girl-The,1.0,5
+75,8,9,movie: Dark-City,1.0,5
+75,8,9,movie: Deep-Rising,-0.8140996152764173,5
+75,8,9,movie: Despicable-Me-2,-1.0,5
+75,8,9,movie: Disaster-Artist-The,-1.0,5
+75,8,9,movie: Dog-Day-Afternoon,-1.0,5
+75,8,9,movie: Dunkirk,-1.0,5
+75,8,9,movie: Eastern-Promises,1.0,5
+75,8,9,movie: Entrapment,-0.8913707717238617,5
+75,8,9,movie: Excalibur,1.0,5
+75,8,9,movie: Eye-in-the-Sky,0.9507478290770768,5
+75,8,9,movie: Fantastic-Mr-Fox,1.0,5
+75,8,9,movie: Fifth-Element-The,-1.0,5
+75,8,9,movie: Final-Destination,0.06686284027560692,5
+75,8,9,movie: Final-Destination-2,-1.0,5
+75,8,9,movie: Fleabag,1.0,5
+75,8,9,movie: Fletch,-1.0,5
+75,8,9,movie: Frankenstein,-1.0,5
+75,8,9,movie: Friday-the-13th,-1.0,5
+75,8,9,movie: Frozen,-1.0,5
+75,8,9,movie: Ginger-Snaps,-1.0,5
+75,8,9,movie: Gods-and-Monsters,-1.0,5
+75,8,9,movie: Gone-in-Sixty-Seconds,1.0,5
+75,8,9,movie: Graduate-The,1.0,5
+75,8,9,movie: Grapes-of-Wrath-The,-0.49887467283669784,5
+75,8,9,movie: Hancock,-1.0,5
+75,8,9,movie: Happiness,0.9999999999999998,5
+75,8,9,movie: Heavy-Metal,0.005020527032797053,5
+75,8,9,movie: Hitchhikers-Guide-to-the-Galaxy-The,-0.343573849338611,5
+75,8,9,movie: Hotel-Rwanda,-0.5325751644183794,5
+75,8,9,movie: Hudsucker-Proxy-The,-0.9999999999999999,5
+75,8,9,movie: Human-Nature,1.0,5
+75,8,9,movie: Hunger-Games-The,-1.0,5
+75,8,9,movie: Ice-Storm-The,-1.0,5
+75,8,9,movie: Ill-Do-Anything,-0.9999999999999999,5
+75,8,9,movie: Indiana-Jones-and-the-Temple-of-Doom,0.35903177635091243,5
+75,8,9,movie: Interstellar,-0.9991071768999779,5
+75,8,9,movie: Interview-with-the-Vampire,0.9517749835533682,5
+75,8,9,movie: Inventing-the-Abbotts,-1.0,5
+75,8,9,movie: Jacobs-Ladder,0.9999999999999998,5
+75,8,9,movie: Jaws-2,-0.6733347756769641,5
+75,8,9,movie: Jennifer-Eight,-0.68723760318731,5
+75,8,9,movie: Jimmy-and-Judy,-0.7496585052018411,5
+75,8,9,movie: Kramer-versus-Krame,-1.0,5
+75,8,9,movie: Ladykillers-The,0.23460785820423205,5
+75,8,9,movie: Last-Samurai-The,0.5446593141937937,5
+75,8,9,movie: Les-Tontons-Flingueurs,-0.9999999999999998,5
+75,8,9,movie: Looper,1.0,5
+75,8,9,movie: MASH,1.0,5
+75,8,9,movie: Made-for-Each-Other,1.0,5
+75,8,9,movie: Man-Trouble,-0.9999999999999998,5
+75,8,9,movie: Man-Up,-1.0,5
+75,8,9,movie: Martian-The,-0.9999999999999998,5
+75,8,9,movie: Mask-The,1.0,5
+75,8,9,movie: Matchstick-Men,0.9999999999999998,5
+75,8,9,movie: Max-Payne,-0.8006276727831753,5
+75,8,9,movie: Memphis-Belle,0.9999999999999999,5
+75,8,9,movie: Mighty-Joe-Young,0.4392850513951574,5
+75,8,9,movie: Mimic,-1.0,5
+75,8,9,movie: Moneyball,1.0,5
+75,8,9,movie: Monkeybone,-1.0,5
+75,8,9,movie: Moonstruck,-0.9999999999999998,5
+75,8,9,movie: Music-of-the-Heart,-1.0,5
+75,8,9,movie: My-best-Friends-Wedding,-1.0,5
+75,8,9,movie: Ni-vu-ni-connu,1.0,5
+75,8,9,movie: Nurse-Betty,-1.0,5
+75,8,9,movie: Out-of-Sight,0.9936993729038947,5
+75,8,9,movie: Panic-Room,1.0,5
+75,8,9,movie: Patriot-The,0.15141502981587585,5
+75,8,9,movie: Pearl-Harbor,0.9999999999999999,5
+75,8,9,movie: Pet-Sematary,-0.9999999999999998,5
+75,8,9,movie: Pineapple-Express,-0.9999999999999999,5
+75,8,9,movie: Pirates-of-the-Caribbean,-0.0021691477929110035,5
+75,8,9,movie: Place-Beyond-the-Pine-The,1.0,5
+75,8,9,movie: Point-Break,1.0,5
+75,8,9,movie: Postman-The,-0.9999999999999999,5
+75,8,9,movie: Prestige-The,0.7576040129159177,5
+75,8,9,movie: Prom-Night,1.0,5
+75,8,9,movie: Raging-Bull,1.0,5
+75,8,9,movie: Rambling-Rose,-0.16663146182095795,5
+75,8,9,movie: Rambo-First-Blood-II-The-Mission,0.30989283241252236,5
+75,8,9,movie: Rear-Window,0.846089188122946,5
+75,8,9,movie: Red-Riding-Hood,0.8394679042830204,5
+75,8,9,movie: Red-White-Black-and-Blue,1.0,5
+75,8,9,movie: Revenant-The,0.9999999999999999,5
+75,8,9,movie: Rise-of-the-Guardians,-1.0,5
+75,8,9,movie: Rush-Hour,-0.9999999999999999,5
+75,8,9,movie: Rust-and-Bone,1.0,5
+75,8,9,movie: Schindlers-List,0.5567980192389699,5
+75,8,9,movie: Scream-2,1.0,5
+75,8,9,movie: Serenity,1.0,5
+75,8,9,movie: Shakespeare-in-Love,0.9999999999999998,5
+75,8,9,movie: Shame,0.05681451397322984,5
+75,8,9,movie: Silence-of-the-Lambs,1.0,5
+75,8,9,movie: Single-White-Female,-0.481158729390872,5
+75,8,9,movie: Sister-Act,-1.0,5
+75,8,9,movie: Sixth-Sense-The,-0.9998396878154383,5
+75,8,9,movie: Sleepy-Hollow,1.0,5
+75,8,9,movie: Smokey-and-the-Bandit,-1.0,5
+75,8,9,movie: Smokin-Aces,-0.9999999999999998,5
+75,8,9,movie: Snow-Falling-On-Cedars,-1.0,5
+75,8,9,movie: Soldier,-1.0,5
+75,8,9,movie: Someone-To-Watch-Over-Me,0.9999999999999999,5
+75,8,9,movie: Star-Trek-First-Contact,-1.0,5
+75,8,9,movie: Star-Trek-Nemesis,1.0,5
+75,8,9,movie: Star-Wars-A-New-Hope,0.31333998145537856,5
+75,8,9,movie: Star-Wars-Episode-V-The-Empire-Strikes-Back,-1.0,5
+75,8,9,movie: Starman,-1.0,5
+75,8,9,movie: Stir-of-Echoes,-0.9999999999999999,5
+75,8,9,movie: Sugar-and-Spice,-1.0,5
+75,8,9,movie: Super-8,-0.9999999999999999,5
+75,8,9,movie: Surrogates,0.9257561992705989,5
+75,8,9,movie: Sweeney-Todd-The-Demon-Barber-of-Fleet-Street,-1.0,5
+75,8,9,movie: THX,0.9999999999999999,5
+75,8,9,movie: TMNT,0.9999999999999998,5
+75,8,9,movie: Tall-in-the-Saddle,0.9828435698447642,5
+75,8,9,movie: Ted,0.14388041694040915,5
+75,8,9,movie: Terminator,-1.0,5
+75,8,9,movie: Terminator-2,0.05938338617578546,5
+75,8,9,movie: Thelma-Louise,-0.9999999999999999,5
+75,8,9,movie: Thirteen-Days,0.9999394245880306,5
+75,8,9,movie: Tin-Men,-0.9999999999999999,5
+75,8,9,movie: Tinker-Tailor-Solider-Spy,1.0,5
+75,8,9,movie: Tomb-Raider,-0.16732169728372234,5
+75,8,9,movie: Tombstone,-0.07063413098931293,5
+75,8,9,movie: Tourist-The,-0.14253545286240082,5
+75,8,9,movie: Tower-Heist,-1.0,5
+75,8,9,movie: Transformers-The-Movie,0.9999999999999998,5
+75,8,9,movie: Twilight-New-Moon,-1.0,5
+75,8,9,movie: Unforgiven,-1.0,5
+75,8,9,movie: Usual-Suspects-The,1.0,5
+75,8,9,movie: Wall-E,0.9872897850304475,5
+75,8,9,movie: While-She-Was-Out,1.0,5
+75,8,9,movie: Wonder-Woman,0.9999999999999998,5
+75,8,9,movie: Woodsman-The,-1.0,5
+75,8,9,movie: Wrestler-The,-1.0,5
+75,8,9,movie: X-Men,0.9999999999999999,5
+75,8,9,movie: xXx,1.0,5
+75,8,9,shepard_fairey,-0.05333515324767706,5
+75,8,10,franck_slama,-0.7191968313210024,5
+75,8,10,jackson_pollock,-0.3697785116068572,5
+75,8,10,juan_gris,-0.067519739238597,5
+75,8,10,keith_haring,-0.0991121389899817,5
+75,8,10,movie: 50-50,1.0,5
+75,8,10,movie: Abyss-The,1.0,5
+75,8,10,movie: American-Gangster,-0.34780923529507873,5
+75,8,10,movie: American-Sniper,-0.6369055034423216,5
+75,8,10,movie: Angel-Eyes,-1.0,5
+75,8,10,movie: Anniversary-Party-The,0.9999999999999999,5
+75,8,10,movie: Antitrust,-1.0,5
+75,8,10,movie: Artist-The,0.9999999999999999,5
+75,8,10,movie: Atomic-Submarine,-1.0,5
+75,8,10,movie: Batman-and-Robin,1.0,5
+75,8,10,movie: Battle-of-the-Sexes,0.8385344862143934,5
+75,8,10,movie: Beauty-and-the-Beast,1.0,5
+75,8,10,movie: Being-Human,1.0,5
+75,8,10,movie: Black-Snake-Moan,-1.0,5
+75,8,10,movie: Black-Swan,-0.6134707221036712,5
+75,8,10,movie: Blade-II,-0.18769358912352946,5
+75,8,10,movie: Blade-Trinity,-1.0,5
+75,8,10,movie: Blood-and-Wine,1.0,5
+75,8,10,movie: Body-Heat,1.0,5
+75,8,10,movie: Borat-Subsequent-Moviefilm,-1.0,5
+75,8,10,movie: Boxtrolls-The,-1.0,5
+75,8,10,movie: Braveheart,0.9895389669820033,5
+75,8,10,movie: Broadcast-News,1.0,5
+75,8,10,movie: Cable-Guy,-0.9999999999999999,5
+75,8,10,movie: Call-Me-By-Your-Name,1.0,5
+75,8,10,movie: Charade,0.4715161704527646,5
+75,8,10,movie: Cherry-Falls,1.0,5
+75,8,10,movie: Cider-House-Rules-The,1.0,5
+75,8,10,movie: Cliffhanger,1.0,5
+75,8,10,movie: Cool-Hand-Luke,0.01863326480435666,5
+75,8,10,movie: Cradle-to-the-Grave,0.3225368332829629,5
+75,8,10,movie: Crowded-Room-A,1.0,5
+75,8,10,movie: Darkest-Hour,-0.3029691364579073,5
+75,8,10,movie: Dave,0.9999999999999999,5
+75,8,10,movie: Death-to-Smoochy,-0.9999999999999999,5
+75,8,10,movie: Deer-Hunter-The,0.016204789698549788,5
+75,8,10,movie: Departed-The,1.0,5
+75,8,10,movie: Despicable-Me-2,1.0,5
+75,8,10,movie: Detroit-Rock-City,-1.0,5
+75,8,10,movie: Devils-Advocate,-0.9999999999999999,5
+75,8,10,movie: Die-Hard,-0.8884121152823001,5
+75,8,10,movie: Disaster-Artist-The,1.0,5
+75,8,10,movie: Disturbia,-1.0,5
+75,8,10,movie: Drag-Me-to-Hell,1.0,5
+75,8,10,movie: English-Patient-The,-1.0,5
+75,8,10,movie: Escape-From-LA,1.0,5
+75,8,10,movie: Event-Horizon,1.0,5
+75,8,10,movie: Executive-Decision,-1.0,5
+75,8,10,movie: Fantastic-Four,0.48510917878173115,5
+75,8,10,movie: Fantastic-Mr-Fox,-0.9999999999999998,5
+75,8,10,movie: Fast-Times-at-Ridgemont-High,-1.0,5
+75,8,10,movie: Fifth-Element-The,1.0,5
+75,8,10,movie: Final-Destination-2,0.9999999999999998,5
+75,8,10,movie: Flash-Gordon,-1.0,5
+75,8,10,movie: Friday-the-13th-Part-VIII-Jason-Takes-Manhattan,-0.1903127784077103,5
+75,8,10,movie: Galaxy-Quest,-0.8970981769361948,5
+75,8,10,movie: Game-The,0.5153085491614544,5
+75,8,10,movie: Gandh,1.0,5
+75,8,10,movie: Ghost-and-the-Darkness-The,-1.0,5
+75,8,10,movie: Ginger-Snaps,1.0,5
+75,8,10,movie: Godzilla,-1.0,5
+75,8,10,movie: Gold,1.0,5
+75,8,10,movie: Gremlins,-1.0,5
+75,8,10,movie: Gremlins-2,-1.0,5
+75,8,10,movie: Halloween-The-Curse-of-Michael-Myers,1.0,5
+75,8,10,movie: Hard-Rain,1.0,5
+75,8,10,movie: House-of-1000-Corpses,-0.9999999999999998,5
+75,8,10,movie: How-to-Lose-Friends-Alienate-People,0.4567293569281179,5
+75,8,10,movie: How-to-Train-Your-Dragon-2,0.594661493838525,5
+75,8,10,movie: Hudsucker-Proxy-The,1.0,5
+75,8,10,movie: I-Still-Know-What-You-Did-Last-Summer,-1.0,5
+75,8,10,movie: I-Tonya,-0.6946217762997895,5
+75,8,10,movie: Ill-See-You-in-My-Dreams,-1.0,5
+75,8,10,movie: Imaginarium-of-Doctor-Parnassus-The,-1.0,5
+75,8,10,movie: Imitation-Game,-1.0,5
+75,8,10,movie: Indiana-Jones-IV,-0.5572484376204216,5
+75,8,10,movie: Insomnia,0.2737269028966175,5
+75,8,10,movie: JFK,-1.0,5
+75,8,10,movie: Jacobs-Ladder,0.9999999999999999,5
+75,8,10,movie: Jaws-2,0.981107283624096,5
+75,8,10,movie: Joe-Versus-the-Volcano,-1.0,5
+75,8,10,movie: Joker,-1.0,5
+75,8,10,movie: Jurassic-Park,0.058827701294972994,5
+75,8,10,movie: Kids,0.9664186049269115,5
+75,8,10,movie: Kill-Bill,0.5696146417740274,5
+75,8,10,movie: Kingdom-The,-1.0,5
+75,8,10,movie: Kundun,-0.9413827886820176,5
+75,8,10,movie: LA-Confidential,1.0,5
+75,8,10,movie: Lake-Placid,1.0,5
+75,8,10,movie: Legend-of-Darkness,-0.8360579656996536,5
+75,8,10,movie: Leon,1.0,5
+75,8,10,movie: Life,-1.0,5
+75,8,10,movie: Life-of-David-Gale-The,0.9508872723149194,5
+75,8,10,movie: Light-Sleeper,1.0,5
+75,8,10,movie: Lord-of-the-Rings-The-Two-Towers,-0.9999999999999998,5
+75,8,10,movie: Man-On-Fire,0.777118822744089,5
+75,8,10,movie: Manhattan-Murder-Mystery,-0.9999999999999999,5
+75,8,10,movie: Max-Payne,1.0,5
+75,8,10,movie: Mechanic-The,-0.888262071229984,5
+75,8,10,movie: Men-Who-Stare-at-Goats-The,-1.0,5
+75,8,10,movie: Miami-Vice,1.0,5
+75,8,10,movie: Mission-to-Mars,-1.0,5
+75,8,10,movie: Monkeybone,0.6009991601071021,5
+75,8,10,movie: Moon,-1.0,5
+75,8,10,movie: Mute-Witness,1.0,5
+75,8,10,movie: Next,0.9824244463811671,5
+75,8,10,movie: Next-Friday,0.9999685186105616,5
+75,8,10,movie: Nick-of-Time,1.0,5
+75,8,10,movie: Nightmare-on-Elm-Street-The-Final-Chapter,0.964285115051524,5
+75,8,10,movie: Nurse-Betty,1.0,5
+75,8,10,movie: O-Brother-Where-Art-Thou,1.0,5
+75,8,10,movie: Out-of-Sight,0.9999999999999998,5
+75,8,10,movie: Pacifier-The,0.9999999999999999,5
+75,8,10,movie: Panic-Room,-0.5657045980650157,5
+75,8,10,movie: Pariah,-0.9752205969783653,5
+75,8,10,movie: Passengers,0.8931618093379858,5
+75,8,10,movie: Pet-Sematary,1.0,5
+75,8,10,movie: Pet-Sematary-II,1.0,5
+75,8,10,movie: Philomena,1.0,5
+75,8,10,movie: Pi,-1.0,5
+75,8,10,movie: Pianist-The,1.0,5
+75,8,10,movie: Place-Beyond-the-Pine-The,1.0,5
+75,8,10,movie: Point-Break,1.0,5
+75,8,10,movie: Power-of-One-The,1.0,5
+75,8,10,movie: Pretty-Woman,1.0,5
+75,8,10,movie: Prometheus,0.3642075366076507,5
+75,8,10,movie: Relic-The,1.0,5
+75,8,10,movie: Replacements-The,0.5314758159763787,5
+75,8,10,movie: Rise-of-the-Planet-of-the-Apes,1.0,5
+75,8,10,movie: Salt-of-the-Earth,1.0,5
+75,8,10,movie: Schindlers-List,1.0,5
+75,8,10,movie: Sherlock-Holmes,-0.7021984375221364,5
+75,8,10,movie: Social-Network-The,0.5394534489685693,5
+75,8,10,movie: South-Park,1.0,5
+75,8,10,movie: Spider-Man,1.0,5
+75,8,10,movie: Star-Wars-Return-of-the-Jedi,-0.3025238331225239,5
+75,8,10,movie: Starman,-0.9999999999999999,5
+75,8,10,movie: Straight-Outta-Compton,1.0,5
+75,8,10,movie: Strange-Days,-0.8018654855168739,5
+75,8,10,movie: Sweet-Smell-of-Success,-1.0,5
+75,8,10,movie: TRON,-1.0,5
+75,8,10,movie: TRON-Legacy,-1.0,5
+75,8,10,movie: Terminator,0.9860090719652788,5
+75,8,10,movie: Terminator-2,-0.9733724654526259,5
+75,8,10,movie: Three-Kings,-0.9373541666424801,5
+75,8,10,movie: Tin-Cup,1.0,5
+75,8,10,movie: Titan,1.0,5
+75,8,10,movie: Tomorrow-Never-Die,0.26825437461780155,5
+75,8,10,movie: Top-Gun,1.0,5
+75,8,10,movie: Total-Recall,-1.0,5
+75,8,10,movie: Traffic,-1.0,5
+75,8,10,movie: Trainspotting,0.31799028900422893,5
+75,8,10,movie: True-Lies,-1.0,5
+75,8,10,movie: Truman-Show-The,-0.5297824112935997,5
+75,8,10,movie: Trumbo,1.0,5
+75,8,10,movie: Two-Popes-The,-1.0,5
+75,8,10,movie: Unforgiven,1.0,5
+75,8,10,movie: Unknown,-1.0,5
+75,8,10,movie: White-Christmas,-1.0,5
+75,8,10,movie: White-Jazz,-1.0,5
+75,8,10,movie: Who-Framed-Roger-Rabbit,0.9364733653133063,5
+75,8,10,movie: Wild-Things,0.5266998393767437,5
+75,8,10,movie: X-Men-Origins-Wolverine,1.0,5
+75,8,10,movie: Youth-in-Revolt,1.0,5
+75,8,10,shepard_fairey,0.3606018784978121,5
+75,8,11,franck_slama,0.372227901262339,5
+75,8,11,jackson_pollock,0.24703322351229495,5
+75,8,11,juan_gris,0.2185459025538533,5
+75,8,11,keith_haring,-0.4591774525666916,5
+75,8,11,movie: 12-Years-a-Slave,-0.5696719562028462,5
+75,8,11,movie: 1492-Conquest-of-Paradise,1.0,5
+75,8,11,movie: 15-Minutes,1.0,5
+75,8,11,movie: 2012,1.0,5
+75,8,11,movie: Abyss-The,-1.0,5
+75,8,11,movie: All-About-Eve,-1.0,5
+75,8,11,movie: Almost-Famous,1.0,5
+75,8,11,movie: American-The,1.0,5
+75,8,11,movie: Anna-Karenina,-1.0,5
+75,8,11,movie: April-Fools-Day,-0.5208957797684222,5
+75,8,11,movie: Arsenic-and-Old-Lace,1.0,5
+75,8,11,movie: Avengers-The,1.0,5
+75,8,11,movie: Awakenings,1.0,5
+75,8,11,movie: Battle-of-Shaker-Heights-The,1.0,5
+75,8,11,movie: Battle-of-the-Sexes,1.0,5
+75,8,11,movie: Being-John-Malkovich,1.0,5
+75,8,11,movie: Black-Rain,-1.0,5
+75,8,11,movie: Blade-II,-1.0,5
+75,8,11,movie: Blade-Runner,-1.0,5
+75,8,11,movie: Book-of-Eli-The,-1.0,5
+75,8,11,movie: Brick,0.16262722378709377,5
+75,8,11,movie: Bridges-of-Madison-County-The,-1.0,5
+75,8,11,movie: Bringing-Out-the-Dead,1.0,5
+75,8,11,movie: Cat-People,-0.5398563925210568,5
+75,8,11,movie: Catch-Me-If-You-Can,-1.0,5
+75,8,11,movie: Chaos,1.0,5
+75,8,11,movie: Charade,-1.0,5
+75,8,11,movie: Charlies-Angels,0.9999999999999999,5
+75,8,11,movie: Cliffhanger,-0.9838073808735172,5
+75,8,11,movie: Colette,-1.0,5
+75,8,11,movie: Collateral-Damage,1.0,5
+75,8,11,movie: Colombiana,0.9999999999999998,5
+75,8,11,movie: Color-of-Night,-1.0,5
+75,8,11,movie: Cooler-The,1.0,5
+75,8,11,movie: Crow-Salvation-The,-1.0,5
+75,8,11,movie: Curious-Case-of-Benjamin-Button-The,-0.9999999999999999,5
+75,8,11,movie: Dave,1.0,5
+75,8,11,movie: Day-the-Earth-Stood-Still-The,1.0,5
+75,8,11,movie: Deep-Cover,0.9999999999999999,5
+75,8,11,movie: Devil-in-a-Blue-Dress,1.0,5
+75,8,11,movie: Donnie-Darko,-0.9349090629513576,5
+75,8,11,movie: Drive,0.9999999999999999,5
+75,8,11,movie: Drive-Angry,-1.0,5
+75,8,11,movie: Ed-Wood,0.9999999999999998,5
+75,8,11,movie: Excalibur,-0.9999999999999999,5
+75,8,11,movie: Eye-in-the-Sky,-0.9341173555956417,5
+75,8,11,movie: Family-Man-The,-1.0,5
+75,8,11,movie: Fatal-Instinct,0.7950862623833019,5
+75,8,11,movie: Final-Destination,0.6943097399897552,5
+75,8,11,movie: First-Man,-1.0,5
+75,8,11,movie: Florida-Project-The,1.0,5
+75,8,11,movie: Four-Rooms,-1.0,5
+75,8,11,movie: Frozen,0.6449372935428868,5
+75,8,11,movie: Gamer,1.0,5
+75,8,11,movie: Ghostbusters-II,-1.0,5
+75,8,11,movie: Godzilla,1.0,5
+75,8,11,movie: Gone-in-Sixty-Seconds,-1.0,5
+75,8,11,movie: Gremlins-2,1.0,5
+75,8,11,movie: Hanna,-0.9677195227948394,5
+75,8,11,movie: Hard-to-Kill,0.9999999999999999,5
+75,8,11,movie: Harold-and-Maude,-1.0,5
+75,8,11,movie: Hellraiser-Deader,1.0,5
+75,8,11,movie: Henry-Fool,-1.0,5
+75,8,11,movie: House-of-1000-Corpses,1.0,5
+75,8,11,movie: How-to-Train-Your-Dragon-2,-1.0,5
+75,8,11,movie: Hunger-Games-The,-1.0,5
+75,8,11,movie: Indiana-Jones-and-the-Temple-of-Doom,-0.7131297142403249,5
+75,8,11,movie: Insidious,1.0,5
+75,8,11,movie: Insomnia,0.9999999999999998,5
+75,8,11,movie: Interstellar,0.08679526643294913,5
+75,8,11,movie: Island-The,-1.0,5
+75,8,11,movie: Jeepers-Creepers-2,-1.0,5
+75,8,11,movie: Jimmy-and-Judy,-1.0,5
+75,8,11,movie: Joe-Versus-the-Volcano,-0.5168663625029697,5
+75,8,11,movie: John-Q,-1.0,5
+75,8,11,movie: Jurassic-Park-III,0.9467519956990917,5
+75,8,11,movie: Kill-Bill,-1.0,5
+75,8,11,movie: Killing-Zoe,-1.0,5
+75,8,11,movie: King-Kong,-1.0,5
+75,8,11,movie: Kingdom-The,-1.0,5
+75,8,11,movie: Lady-Bird,1.0,5
+75,8,11,movie: Last-Samurai-The,-1.0,5
+75,8,11,movie: Law-Abiding-Citizen,0.9999999999999999,5
+75,8,11,movie: Le-Diable-par-la-Queue,-1.0,5
+75,8,11,movie: Leisure-Seeker,1.0,5
+75,8,11,movie: Lion,-0.9999999999999998,5
+75,8,11,movie: Lost-Boys-The,1.0,5
+75,8,11,movie: Lost-Highway,1.0,5
+75,8,11,movie: Machine-Gun-Preacher,-0.9972637232841246,5
+75,8,11,movie: Man-Who-Knew-Too-Much-The,-0.2592927464863124,5
+75,8,11,movie: Man-on-the-Moon,-1.0,5
+75,8,11,movie: Martha-Marcy-May-Marlene,0.9999999999999998,5
+75,8,11,movie: Meet-Joe-Black,1.0,5
+75,8,11,movie: Midnight-Cowboy,-0.8999760143671544,5
+75,8,11,movie: Mimic,-1.0,5
+75,8,11,movie: Mission-Impossible-II,0.9999999999999999,5
+75,8,11,movie: Mission-to-Mars,-0.9999999999999999,5
+75,8,11,movie: Monkeybone,1.0,5
+75,8,11,movie: Moonrise-Kingdom,-0.3464237695868061,5
+75,8,11,movie: My-best-Friends-Wedding,0.9999999999999999,5
+75,8,11,movie: Ni-vu-ni-connu,0.8668189130256329,5
+75,8,11,movie: Nine,-1.0,5
+75,8,11,movie: Orgy-of-the-Dead,1.0,5
+75,8,11,movie: Pacifier-The,1.0,5
+75,8,11,movie: Patriot-The,1.0,5
+75,8,11,movie: Peeping-Tom,-0.8453232959782956,5
+75,8,11,movie: Pet-Sematary,1.0,5
+75,8,11,movie: Plastic-Man-The,0.25603997283339797,5
+75,8,11,movie: Possession,-1.0,5
+75,8,11,movie: Postman-The,-1.0,5
+75,8,11,movie: Prestige-The,0.5742071637772579,5
+75,8,11,movie: Psycho,0.2170086542582132,5
+75,8,11,movie: Raiders-of-the-Lost-Ark,1.0,5
+75,8,11,movie: Resident-Evil,-1.0,5
+75,8,11,movie: Rise-of-the-Guardians,-1.0,5
+75,8,11,movie: Road-The,-1.0,5
+75,8,11,movie: Runaway-Bride,0.1430014206919124,5
+75,8,11,movie: Rush-Hour,1.0,5
+75,8,11,movie: S-Darko,-1.0,5
+75,8,11,movie: Se7en,0.507082353340351,5
+75,8,11,movie: Seven,-1.0,5
+75,8,11,movie: Signs,-0.8830912110396176,5
+75,8,11,movie: Silence-of-the-Lambs,1.0,5
+75,8,11,movie: Sleepy-Hollow,0.9997049585210713,5
+75,8,11,movie: Slither,1.0,5
+75,8,11,movie: Smokey-and-the-Bandit,-1.0,5
+75,8,11,movie: Soldier,-1.0,5
+75,8,11,movie: Star-Wars-The-Force-Awakens,-0.6386410509394257,5
+75,8,11,movie: Starman,0.8040427402604068,5
+75,8,11,movie: Strangers-on-a-Train,-1.0,5
+75,8,11,movie: Sugar,-0.9999999999999998,5
+75,8,11,movie: Sweet-Hereafter-The,-1.0,5
+75,8,11,movie: Sweet-Smell-of-Success,0.9999999999999999,5
+75,8,11,movie: Taking-of-Pelham-One-Two-Three-The,1.0,5
+75,8,11,movie: Ted,0.9886359480187247,5
+75,8,11,movie: The-Battle-of-Algiers,-0.9999999999999999,5
+75,8,11,movie: The-Irishman,-1.0,5
+75,8,11,movie: Thor-Ragnarok,1.0,5
+75,8,11,movie: Three-Kings,-1.0,5
+75,8,11,movie: Three-Musketeers-The,1.0,5
+75,8,11,movie: Tombstone,0.9999999999999999,5
+75,8,11,movie: Top-Gun,0.9999629959933151,5
+75,8,11,movie: True-Lies,1.0,5
+75,8,11,movie: Twin-Peaks,1.0,5
+75,8,11,movie: Un-Singe-en-Hiver,1.0,5
+75,8,11,movie: Unforgiven,-0.6637360765197642,5
+75,8,11,movie: Usual-Suspects-The,1.0,5
+75,8,11,movie: Vertigo,-0.7522277479407119,5
+75,8,11,movie: While-She-Was-Out,-0.9999999999999999,5
+75,8,11,movie: Whistleblower-The,0.7045672321178661,5
+75,8,11,movie: White-Tiger-The,-1.0,5
+75,8,11,movie: Who-Framed-Roger-Rabbit,0.9999999999999999,5
+75,8,11,movie: Wind-Chill,1.0,5
+75,8,11,movie: Witness,1.0,5
+75,8,11,movie: Woman-in-Gold,-0.9999999999999998,5
+75,8,11,movie: Woodsman-The,1.0,5
+75,8,11,movie: World-is-not-Enough-The,0.06485072404676556,5
+75,8,11,movie: X-Men,1.0,5
+75,8,11,shepard_fairey,0.014987417793394464,5
+75,8,12,franck_slama,0.20272769845699834,5
+75,8,12,jackson_pollock,-0.2084481711304126,5
+75,8,12,juan_gris,0.7816283943187606,5
+75,8,12,keith_haring,0.4757751442942436,5
+75,8,12,movie: 12-Years-a-Slave,-0.8582904414910567,5
+75,8,12,movie: 2012,0.9748268441387701,5
+75,8,12,movie: 3-Kings,1.0,5
+75,8,12,movie: A-Most-Violent-Year,1.0,5
+75,8,12,movie: Above-the-Law,1.0,5
+75,8,12,movie: Adaptation,1.0,5
+75,8,12,movie: Ali,-1.0,5
+75,8,12,movie: Alien-Nation,1.0,5
+75,8,12,movie: Alien-vs-Predator,0.4351943829869594,5
+75,8,12,movie: Aliens,-0.9999999999999999,5
+75,8,12,movie: Angel-Eyes,0.9989003757007311,5
+75,8,12,movie: Angels-Demons,0.4952317820885805,5
+75,8,12,movie: Antz,-1.0,5
+75,8,12,movie: Apollo-13,-1.0,5
+75,8,12,movie: Armageddon,1.0,5
+75,8,12,movie: Avenge,1.0,5
+75,8,12,movie: Avengers-Endgame,1.0,5
+75,8,12,movie: Avengers-The,-1.0,5
+75,8,12,movie: Bachelor-Party,0.9999999999999999,5
+75,8,12,movie: Ballad-of-Buster-Scruggs-The,0.9999999999999999,5
+75,8,12,movie: Basquiat,-1.0,5
+75,8,12,movie: Bean,-1.0,5
+75,8,12,movie: Beloved,0.8297452083589839,5
+75,8,12,movie: Birdman,-0.5883214840493265,5
+75,8,12,movie: Black-Dahlia-The,-1.0,5
+75,8,12,movie: Black-Panther,1.0,5
+75,8,12,movie: Butterfly-Effect-The,1.0,5
+75,8,12,movie: Cell-The,0.9999999999999999,5
+75,8,12,movie: Charade,1.0,5
+75,8,12,movie: Coraline,-0.9999999999999999,5
+75,8,12,movie: Croupier,-0.333690003435155,5
+75,8,12,movie: Curious-Case-of-Benjamin-Button-The,0.9784043196158255,5
+75,8,12,movie: Dances-with-Wolves,-0.4373226434353395,5
+75,8,12,movie: Dark-City,-1.0,5
+75,8,12,movie: Date-Night,-1.0,5
+75,8,12,movie: Dave,1.0,5
+75,8,12,movie: Day-of-the-Dead,0.9999999999999998,5
+75,8,12,movie: Deep-Rising,1.0,5
+75,8,12,movie: Devil-Wears-Prada-The,1.0,5
+75,8,12,movie: Disturbia,1.0,5
+75,8,12,movie: Drop-Dead-Gorgeous,-0.6621165846046734,5
+75,8,12,movie: Event-Horizon,1.0,5
+75,8,12,movie: Excalibur,-1.0,5
+75,8,12,movie: Eye-in-the-Sky,-1.0,5
+75,8,12,movie: Fantastic-Mr-Fox,1.0,5
+75,8,12,movie: Fatal-Instinct,1.0,5
+75,8,12,movie: Foxcatcher,-0.8660228514348964,5
+75,8,12,movie: From-Here-to-Eternity,1.0,5
+75,8,12,movie: Gandh,1.0,5
+75,8,12,movie: Gang-Related,-1.0,5
+75,8,12,movie: Get-Carter,-0.18599876396590367,5
+75,8,12,movie: Ghost,1.0,5
+75,8,12,movie: Gladiator,1.0,5
+75,8,12,movie: Godfather,0.9987454653442257,5
+75,8,12,movie: Godfather-Part-II,0.826042347896032,5
+75,8,12,movie: Gone-in-Sixty-Seconds,1.0,5
+75,8,12,movie: Grand-Budapest-Hotel-The,-1.0,5
+75,8,12,movie: Gravity,1.0,5
+75,8,12,movie: Green-Mile-The,0.9999999999999999,5
+75,8,12,movie: Grosse-Point-Blank,-1.0,5
+75,8,12,movie: Halloween-The-Curse-of-Michael-Myers,-1.0,5
+75,8,12,movie: Heat,-1.0,5
+75,8,12,movie: Henry-Fool,0.9999999999999998,5
+75,8,12,movie: Hitchcock,1.0,5
+75,8,12,movie: Hurt-Locker-The,0.9307769928507449,5
+75,8,12,movie: I-Still-Know-What-You-Did-Last-Summer,1.0,5
+75,8,12,movie: It,0.9194945387902471,5
+75,8,12,movie: Jackie,1.0,5
+75,8,12,movie: Jaws-2,0.3705463316091863,5
+75,8,12,movie: Jennifer-Eight,0.351644122470768,5
+75,8,12,movie: Jerry-Maguire,-1.0,5
+75,8,12,movie: Joker,-1.0,5
+75,8,12,movie: Jurassic-Park,-1.0,5
+75,8,12,movie: Kids,-0.9999999999999998,5
+75,8,12,movie: King-Kong,-0.571942497790536,5
+75,8,12,movie: Kramer-versus-Krame,-1.0,5
+75,8,12,movie: LAvventura,-1.0,5
+75,8,12,movie: Legend-of-Darkness,-0.9432347868161524,5
+75,8,12,movie: Little-Athens,0.9999999999999999,5
+75,8,12,movie: Logan,-0.9999999999999999,5
+75,8,12,movie: Logans-Run,-1.0,5
+75,8,12,movie: Long-Kiss-Goodnight-The,-1.0,5
+75,8,12,movie: Looper,0.916958023749522,5
+75,8,12,movie: Lost-Boys-The,1.0,5
+75,8,12,movie: Machete,1.0,5
+75,8,12,movie: Made-for-Each-Other,1.0,5
+75,8,12,movie: Malcolm-X,0.9638493982142969,5
+75,8,12,movie: Man-On-Fire,1.0,5
+75,8,12,movie: Man-on-the-Moon,0.9999999999999999,5
+75,8,12,movie: Manhattan-Murder-Mystery,0.6040569360615317,5
+75,8,12,movie: Marriage-Story,-1.0,5
+75,8,12,movie: Matchstick-Men,-0.42358728691561354,5
+75,8,12,movie: Meet-Joe-Black,1.0,5
+75,8,12,movie: Megamind,-1.0,5
+75,8,12,movie: Men-in-Black,-0.24623480908867162,5
+75,8,12,movie: Metro,1.0,5
+75,8,12,movie: Minority-Report,0.9999999999999998,5
+75,8,12,movie: Mirrors,-1.0,5
+75,8,12,movie: Mission-Impossible-II,-0.5277452115522047,5
+75,8,12,movie: Monkeybone,1.0,5
+75,8,12,movie: Mud,-0.9999999999999998,5
+75,8,12,movie: Mudbound,-1.0,5
+75,8,12,movie: Next,-1.0,5
+75,8,12,movie: Nurse-Betty,-1.0,5
+75,8,12,movie: Orgy-of-the-Dead,1.0,5
+75,8,12,movie: Pariah,1.0,5
+75,8,12,movie: Pearl-Harbor,1.0,5
+75,8,12,movie: Pet-Sematary-II,-1.0,5
+75,8,12,movie: Pirates-of-the-Caribbean,1.0,5
+75,8,12,movie: Pitch-Black,-1.0,5
+75,8,12,movie: Precious,-0.9999999999999999,5
+75,8,12,movie: Prophecy-The,1.0,5
+75,8,12,movie: Red-White-Black-and-Blue,0.9986885273510194,5
+75,8,12,movie: Replacements-The,1.0,5
+75,8,12,movie: Resident-Evil,0.4833064623678881,5
+75,8,12,movie: Revenant-The,1.0,5
+75,8,12,movie: Roma,1.0,5
+75,8,12,movie: Runaway-Bride,-1.0,5
+75,8,12,movie: Rush-Hour,-1.0,5
+75,8,12,movie: Sandlot-Kids-The,-0.83384934271231,5
+75,8,12,movie: Semi-Pro,-1.0,5
+75,8,12,movie: Shes-Out-of-My-League,-0.7692502658370788,5
+75,8,12,movie: Silver-Bullet,0.020901862654831103,5
+75,8,12,movie: Snow-White-and-the-Huntsman,1.0,5
+75,8,12,movie: Spider-Man,1.0,5
+75,8,12,movie: Star-Wars-Episode-V-The-Empire-Strikes-Back,-0.22377405133986472,5
+75,8,12,movie: Suspect-Zero,-1.0,5
+75,8,12,movie: Sweet-Hereafter-The,-0.9998247713767155,5
+75,8,12,movie: Sweet-Smell-of-Success,1.0,5
+75,8,12,movie: Synecdoche-New-York,-1.0,5
+75,8,12,movie: Syriana,-1.0,5
+75,8,12,movie: TRON,-0.9999999999999999,5
+75,8,12,movie: TRON-Legacy,-0.6192022206890272,5
+75,8,12,movie: The-Shawshank-Redemption,1.0,5
+75,8,12,movie: Thelma-Louise,-1.0,5
+75,8,12,movie: Tomb-Raider,0.7619143033093372,5
+75,8,12,movie: Tombstone,-0.9999999999999999,5
+75,8,12,movie: Top-Gun,0.9999999999999998,5
+75,8,12,movie: Tower-Heist,0.6733885599474282,5
+75,8,12,movie: True-Lies,1.0,5
+75,8,12,movie: Twilight-New-Moon,-1.0,5
+75,8,12,movie: Twin-Peaks,0.7535930418648665,5
+75,8,12,movie: Two-Popes-The,-1.0,5
+75,8,12,movie: U-Turn,-1.0,5
+75,8,12,movie: Un-Singe-en-Hiver,0.9999999999999998,5
+75,8,12,movie: Unknown,-1.0,5
+75,8,12,movie: V-for-Vendetta,-1.0,5
+75,8,12,movie: War-for-the-Planet-of-the-Apes,-0.19692005107789373,5
+75,8,12,movie: We-Own-the-Night,1.0,5
+75,8,12,movie: Who-Framed-Roger-Rabbit,-1.0,5
+75,8,12,movie: Wild-Wild-West,-1.0,5
+75,8,12,movie: Willow,-1.0,5
+75,8,12,movie: Woman-in-Gold,-0.9999999999999999,5
+75,8,12,movie: World-is-not-Enough-The,-1.0,5
+75,8,12,movie: Wrestler-The,-1.0,5
+75,8,12,movie: Zulu-Dawn,0.20103768679123954,5
+75,8,12,shepard_fairey,-0.19720683577315976,5
+75,8,13,franck_slama,-0.13458981443617052,5
+75,8,13,jackson_pollock,0.3392993307808227,5
+75,8,13,juan_gris,-0.17330104341005348,5
+75,8,13,keith_haring,-0.47351678585781526,5
+75,8,13,movie: 12-Years-a-Slave,-1.0,5
+75,8,13,movie: 28-Days-Later,1.0,5
+75,8,13,movie: Abyss-The,-1.0,5
+75,8,13,movie: Anchorman,-1.0,5
+75,8,13,movie: Anonymous,-1.0,5
+75,8,13,movie: Antz,-1.0,5
+75,8,13,movie: Arac-Attack-(Released-as-Eight-Legged-Freaks),-1.0,5
+75,8,13,movie: Arcade,-0.9999999999999999,5
+75,8,13,movie: Argo,-0.7054944334526568,5
+75,8,13,movie: As-Good-As-It-Ge,-1.0,5
+75,8,13,movie: Atomic-Submarine,-1.0,5
+75,8,13,movie: Autumn-in-New-York,1.0,5
+75,8,13,movie: Bad-Dreams,-1.0,5
+75,8,13,movie: Basic-Instinct,1.0,5
+75,8,13,movie: Batman,1.0,5
+75,8,13,movie: Beasts-of-the-Southern-Wild,-1.0,5
+75,8,13,movie: Beloved,-1.0,5
+75,8,13,movie: Best-Exotic-Marigold-Hotel-The,-1.0,5
+75,8,13,movie: Big-White-The,-0.5299010428298536,5
+75,8,13,movie: BlacKkKlansman,1.0,5
+75,8,13,movie: Black-Swan,-1.0,5
+75,8,13,movie: Body-Heat,0.9763820569876949,5
+75,8,13,movie: Bones,0.9999999999999999,5
+75,8,13,movie: Braveheart,0.6820936604155106,5
+75,8,13,movie: Breaking-Away,1.0,5
+75,8,13,movie: Brick,-1.0,5
+75,8,13,movie: Broadcast-News,-0.1443607485753793,5
+75,8,13,movie: Butterfly-Effect-The,-1.0,5
+75,8,13,movie: Call-Me-By-Your-Name,0.9671533766366744,5
+75,8,13,movie: Cast-Away,1.0,5
+75,8,13,movie: Cherry-Falls,-1.0,5
+75,8,13,movie: Confessions-of-a-Dangerous-Mind,1.0,5
+75,8,13,movie: Cool-Hand-Luke,-1.0,5
+75,8,13,movie: Coraline,-0.1577019715844845,5
+75,8,13,movie: Damned-United-The,1.0,5
+75,8,13,movie: Dances-with-Wolves,-1.0,5
+75,8,13,movie: Dark-City,0.32435040183157837,5
+75,8,13,movie: Dave,-1.0,5
+75,8,13,movie: Day-of-the-Dead,-1.0,5
+75,8,13,movie: Deep-Rising,-0.7844981722034392,5
+75,8,13,movie: Deer-Hunter-The,0.3863448890234682,5
+75,8,13,movie: Devil-Wears-Prada-The,-1.0,5
+75,8,13,movie: Dragonslayer,1.0,5
+75,8,13,movie: Drive-Angry,1.0,5
+75,8,13,movie: Dry-White-Season-A,1.0,5
+75,8,13,movie: Elephant-Man-The,-0.9999999999999998,5
+75,8,13,movie: Excalibur,1.0,5
+75,8,13,movie: Eye-in-the-Sky,-0.8144246316746964,5
+75,8,13,movie: Face-Off,0.9999999999999999,5
+75,8,13,movie: Final-Destination,-0.021573910579130638,5
+75,8,13,movie: Final-Destination-2,-0.09617650305259282,5
+75,8,13,movie: First-Man,0.17285161151122647,5
+75,8,13,movie: First-They-Killed-My-Father,1.0,5
+75,8,13,movie: Florida-Project-The,0.38552869673689666,5
+75,8,13,movie: Freaked,-0.8301629437433988,5
+75,8,13,movie: Friday-the-13th-Part-VIII-Jason-Takes-Manhattan,-1.0,5
+75,8,13,movie: Galaxy-Quest,-0.053847812522784956,5
+75,8,13,movie: Gandh,1.0,5
+75,8,13,movie: Gandhi,-1.0,5
+75,8,13,movie: Gangs-of-New-York,-0.9999999999999999,5
+75,8,13,movie: Ghost-and-the-Darkness-The,-1.0,5
+75,8,13,movie: Ghostbuste,1.0,5
+75,8,13,movie: Godfather,1.0,5
+75,8,13,movie: Grand-Budapest-Hotel-The,-1.0,5
+75,8,13,movie: Grifters-The,-1.0,5
+75,8,13,movie: Grudge-The,1.0,5
+75,8,13,movie: Half-of-It-The,-1.0,5
+75,8,13,movie: Halloween,1.0,5
+75,8,13,movie: Hangover-The,-1.0,5
+75,8,13,movie: Happy-Feet,-1.0,5
+75,8,13,movie: Hard-to-Kill,-1.0,5
+75,8,13,movie: Heist,0.9370045617339195,5
+75,8,13,movie: Hellraiser-3-Hell-on-Earth,1.0,5
+75,8,13,movie: Hunger-Games-The,-0.9999999999999999,5
+75,8,13,movie: I-Still-Know-What-You-Did-Last-Summer,1.0,5
+75,8,13,movie: Independence-Day,1.0,5
+75,8,13,movie: Indiana-Jones-and-the-Temple-of-Doom,-1.0,5
+75,8,13,movie: Island-The,-1.0,5
+75,8,13,movie: Isle-of-the-Dead,-1.0,5
+75,8,13,movie: Jennifer-Eight,0.20669913009110358,5
+75,8,13,movie: Jeux-Interdits,-1.0,5
+75,8,13,movie: Kill-Bill,-1.0,5
+75,8,13,movie: Kill-Your-Darlings,-1.0,5
+75,8,13,movie: Killing-Zoe,-1.0,5
+75,8,13,movie: Lady-Bird,1.0,5
+75,8,13,movie: Last-Boy-Scout-The,-1.0,5
+75,8,13,movie: Little-Athens,-0.9999999999999999,5
+75,8,13,movie: Little-Women,0.7315464717401748,5
+75,8,13,movie: Living-in-Oblivion,-1.0,5
+75,8,13,movie: Lord-of-the-Rings-Return-of-the-King,-0.5995209131795717,5
+75,8,13,movie: Lost-Weekend-The,1.0,5
+75,8,13,movie: Love-and-Basketball,0.9999999999999999,5
+75,8,13,movie: Manhunte,0.9999999999999998,5
+75,8,13,movie: Marriage-Story,1.0,5
+75,8,13,movie: Mask-The,0.2844169767652317,5
+75,8,13,movie: Megamind,-0.9427649339800446,5
+75,8,13,movie: Miami-Vice,-1.0,5
+75,8,13,movie: Mighty-Joe-Young,-0.9999999999999999,5
+75,8,13,movie: Mission-Impossible-II,1.0,5
+75,8,13,movie: Mission-to-Mars,-0.4727926184450879,5
+75,8,13,movie: Moon,-1.0,5
+75,8,13,movie: Moonrise-Kingdom,-1.0,5
+75,8,13,movie: Mummy-The,1.0,5
+75,8,13,movie: Network,0.9959257213462968,5
+75,8,13,movie: Next,0.4125294975695978,5
+75,8,13,movie: Next-Three-Days-The,-0.024038142201693053,5
+75,8,13,movie: Nick-of-Time,-0.8416501170133236,5
+75,8,13,movie: Nurse-Betty,0.20697598587417848,5
+75,8,13,movie: Oblivion,0.5732562768693164,5
+75,8,13,movie: Orphan,0.3301201764070357,5
+75,8,13,movie: Parasite,-0.9999999999999999,5
+75,8,13,movie: Patriot-The,-0.9994010974246056,5
+75,8,13,movie: Pearl-Harbor,-0.30309072240569823,5
+75,8,13,movie: Peggy-Sue-Got-Married,-0.4950028158322591,5
+75,8,13,movie: Pet-Sematary-II,-0.9084933893712142,5
+75,8,13,movie: Plastic-Man-The,1.0,5
+75,8,13,movie: Pleasantville,0.9522292201088791,5
+75,8,13,movie: Prometheus,-1.0,5
+75,8,13,movie: Psycho,1.0,5
+75,8,13,movie: Rear-Window,1.0,5
+75,8,13,movie: Replacements-The,0.9999999999999998,5
+75,8,13,movie: Roma,0.9999999999999998,5
+75,8,13,movie: Ronin,0.9999999999999999,5
+75,8,13,movie: Se7en,1.0,5
+75,8,13,movie: Searchers-The,-1.0,5
+75,8,13,movie: Serenity,1.0,5
+75,8,13,movie: Seven-Days-to-Live,-1.0,5
+75,8,13,movie: Shampoo,-1.0,5
+75,8,13,movie: Siege-The,-1.0,5
+75,8,13,movie: Sister-Act,1.0,5
+75,8,13,movie: Social-Network-The,1.0,5
+75,8,13,movie: Sound-of-Metal,1.0,5
+75,8,13,movie: Sounder,1.0,5
+75,8,13,movie: Star-Trek-Generations,1.0,5
+75,8,13,movie: Star-Wars-Episode-I-The-Phantom-Menace,1.0,5
+75,8,13,movie: Star-Wars-Episode-III-Revenge-of-the-Sith,0.9562847010186836,5
+75,8,13,movie: Star-Wars-Episode-V-The-Empire-Strikes-Back,-0.7152347156823226,5
+75,8,13,movie: Sugar,1.0,5
+75,8,13,movie: TRON,-1.0,5
+75,8,13,movie: Tall-in-the-Saddle,-0.10652393847078985,5
+75,8,13,movie: The-Jackie-Robinson-Story,1.0,5
+75,8,13,movie: The-Messenger-The-Story-Of-Joan-Of-Arc,1.0,5
+75,8,13,movie: Thing-The,1.0,5
+75,8,13,movie: To-Sleep-With-Anger,0.456794208881488,5
+75,8,13,movie: Tower-Heist,1.0,5
+75,8,13,movie: Transformers-The-Movie,-0.9999999999999998,5
+75,8,13,movie: Tremors,1.0,5
+75,8,13,movie: Twilight,1.0,5
+75,8,13,movie: Unbreakable,1.0,5
+75,8,13,movie: Under-Fire,-0.5503512396642849,5
+75,8,13,movie: Vertigo,1.0,5
+75,8,13,movie: Viridiana,0.4065312750059195,5
+75,8,13,movie: Wall-Street-Money-Never-Sleeps,-1.0,5
+75,8,13,movie: Warrior,1.0,5
+75,8,13,movie: Woman-in-Gold,1.0,5
+75,8,13,movie: Woodsman-The,-1.0,5
+75,8,13,movie: X-Men,1.0,5
+75,8,13,movie: Year-One,1.0,5
+75,8,13,movie: xXx,-1.0,5
+75,8,13,shepard_fairey,-0.04879874179597245,5
+75,8,14,franck_slama,0.44920923324789963,5
+75,8,14,jackson_pollock,0.026133343517974566,5
+75,8,14,juan_gris,-0.18053807265403393,5
+75,8,14,keith_haring,-0.0014246947707073664,5
+75,8,14,movie: 12-Monkeys,0.5799244128873082,5
+75,8,14,movie: 2012,1.0,5
+75,8,14,movie: 30-Minutes-or-Less,-1.0,5
+75,8,14,movie: A-Prayer-Before-Dawn,1.0,5
+75,8,14,movie: A-Scanner-Darkly,0.6201410453160572,5
+75,8,14,movie: Abyss-The,-1.0,5
+75,8,14,movie: Alien-Nation,-1.0,5
+75,8,14,movie: Aliens,0.952164914412549,5
+75,8,14,movie: Almost-Famous,-1.0,5
+75,8,14,movie: American-Psycho,-1.0,5
+75,8,14,movie: American-The,1.0,5
+75,8,14,movie: Amityville-Asylum-The,1.0,5
+75,8,14,movie: Apollo-13,-1.0,5
+75,8,14,movie: Arcade,-0.9999999999999998,5
+75,8,14,movie: Armageddon,-0.2513037582913134,5
+75,8,14,movie: Bad-Teacher,-1.0,5
+75,8,14,movie: Batman,0.8788520941836829,5
+75,8,14,movie: Beavis-and-Butt-head-Do-America,-1.0,5
+75,8,14,movie: Birdman,-0.586774139994499,5
+75,8,14,movie: Birds-The,-1.0,5
+75,8,14,movie: Black-Panther,1.0,5
+75,8,14,movie: Black-Rain,0.27728629520559517,5
+75,8,14,movie: Blind-Side-The,1.0,5
+75,8,14,movie: Bling-Ring-The,-0.9999999999999998,5
+75,8,14,movie: Body-Heat,-0.9999999999999999,5
+75,8,14,movie: Broken-Embraces,-1.0,5
+75,8,14,movie: Casino,1.0,5
+75,8,14,movie: Chinatown,1.0,5
+75,8,14,movie: Cinema-Paradiso,1.0,5
+75,8,14,movie: Citizen-Kane,1.0,5
+75,8,14,movie: Colette,-0.9722282008437466,5
+75,8,14,movie: Color-of-Night,1.0,5
+75,8,14,movie: Committed-(filmed-as-Crazylove),1.0,5
+75,8,14,movie: Contact,-0.9779814024346163,5
+75,8,14,movie: Cowboys-Aliens,1.0,5
+75,8,14,movie: Creation,0.9999999999999999,5
+75,8,14,movie: Crowded-Room-A,1.0,5
+75,8,14,movie: Curious-Case-of-Benjamin-Button-The,1.0,5
+75,8,14,movie: Darkman,-1.0,5
+75,8,14,movie: Deep-Rising,1.0,5
+75,8,14,movie: Deer-Hunter-The,1.0,5
+75,8,14,movie: Despicable-Me-2,-1.0,5
+75,8,14,movie: Disaster-Artist-The,-0.5339778958584229,5
+75,8,14,movie: Doors-The,-0.8240411610213841,5
+75,8,14,movie: Double-Indemnity,-0.4775354152703561,5
+75,8,14,movie: English-Patient-The,-1.0,5
+75,8,14,movie: Fantastic-Woman-A,-0.9999999999999999,5
+75,8,14,movie: Flight,-0.04746231308388577,5
+75,8,14,movie: Freddy-vs-Jason,-1.0,5
+75,8,14,movie: Frozen,0.9999999999999999,5
+75,8,14,movie: Game-The,0.9999999999999999,5
+75,8,14,movie: Gangs-of-New-York,-1.0,5
+75,8,14,movie: Ginger-Snaps,0.6722747136850152,5
+75,8,14,movie: Godfather-Part-II,-1.0,5
+75,8,14,movie: Godfather-Part-III-The,1.0,5
+75,8,14,movie: Godzilla,0.9999999999999999,5
+75,8,14,movie: Grand-Theft-Parsons,-0.944973769778788,5
+75,8,14,movie: Gremlins-2,1.0,5
+75,8,14,movie: Hard-to-Kill,-0.9999999999999999,5
+75,8,14,movie: Heist,0.9999999999999999,5
+75,8,14,movie: Hellraiser-3-Hell-on-Earth,1.0,5
+75,8,14,movie: Hotel-Rwanda,-0.5075183437464049,5
+75,8,14,movie: Hunger-Games-The,0.9776856475018151,5
+75,8,14,movie: I-Love-You-Phillip-Morris,1.0,5
+75,8,14,movie: I-Robot,-0.5921414964883144,5
+75,8,14,movie: I-Tonya,1.0,5
+75,8,14,movie: Imitation-Game,0.4812608478340717,5
+75,8,14,movie: Inception,0.9999999999999998,5
+75,8,14,movie: Indiana-Jones-Last-Crusade,-1.0,5
+75,8,14,movie: Inside-Out,-0.9418250459891844,5
+75,8,14,movie: Into-the-Wild,0.9999999999999998,5
+75,8,14,movie: Island-The,1.0,5
+75,8,14,movie: It,-0.025241232826692085,5
+75,8,14,movie: Its-a-Wonderful-Life,1.0,5
+75,8,14,movie: Jacket-The,-1.0,5
+75,8,14,movie: Jane-Eyre,-1.0,5
+75,8,14,movie: Jennifer-Eight,0.8643918262437008,5
+75,8,14,movie: John-Wick,-1.0,5
+75,8,14,movie: Kafka,1.0,5
+75,8,14,movie: Kalifornia,1.0,5
+75,8,14,movie: Last-Samurai-The,-1.0,5
+75,8,14,movie: Les-Tontons-Flingueurs,0.3730177946523061,5
+75,8,14,movie: Lion,-0.33342793514690966,5
+75,8,14,movie: Lord-of-the-Rings-Fellowship-of-the-Ring-The,-1.0,5
+75,8,14,movie: MASH,-0.8940234963631117,5
+75,8,14,movie: Man-On-Fire,-1.0,5
+75,8,14,movie: Manhattan-Murder-Mystery,-0.23330047733874762,5
+75,8,14,movie: Memento,0.935443275824847,5
+75,8,14,movie: Men-in-Black,-1.0,5
+75,8,14,movie: Mighty-Joe-Young,-1.0,5
+75,8,14,movie: Minority-Report,-1.0,5
+75,8,14,movie: Mission-to-Mars,0.42695816913406626,5
+75,8,14,movie: Mobsters,-0.6955303926771068,5
+75,8,14,movie: Monkeybone,-1.0,5
+75,8,14,movie: Monty-Python-and-the-Holy-Grail,-0.9999999999999999,5
+75,8,14,movie: Mr-Brooks,1.0,5
+75,8,14,movie: Mute-Witness,0.9999999999999999,5
+75,8,14,movie: My-Week-with-Marilyn,1.0,5
+75,8,14,movie: My-best-Friends-Wedding,-1.0,5
+75,8,14,movie: Next,0.6032345433909737,5
+75,8,14,movie: Nick-of-Time,-1.0,5
+75,8,14,movie: Nixon,1.0,5
+75,8,14,movie: One-Saliva-Bubble,-0.9999999999999998,5
+75,8,14,movie: Orphan,1.0,5
+75,8,14,movie: Pacifier-The,-1.0,5
+75,8,14,movie: Pet-Sematary-II,0.06559585852943658,5
+75,8,14,movie: Possession,1.0,5
+75,8,14,movie: Psycho,1.0,5
+75,8,14,movie: Rabid,-1.0,5
+75,8,14,movie: Raiders-of-the-Lost-Ark,1.0,5
+75,8,14,movie: Resident-Evil,-0.46626173749817096,5
+75,8,14,movie: Ringu,1.0,5
+75,8,14,movie: Rise-of-the-Guardians,-0.035414390247716865,5
+75,8,14,movie: Rocky,-1.0,5
+75,8,14,movie: Rushmore,1.0,5
+75,8,14,movie: Schindlers-List,0.6788745425292395,5
+75,8,14,movie: Searchers-The,1.0,5
+75,8,14,movie: Shampoo,-0.9405075525089032,5
+75,8,14,movie: Shape-of-Water-The,1.0,5
+75,8,14,movie: Silence-of-the-Lambs,-0.498849531327882,5
+75,8,14,movie: Silver-Bullet,1.0,5
+75,8,14,movie: Single-White-Female,-1.0,5
+75,8,14,movie: Sister-Act,-1.0,5
+75,8,14,movie: Sixth-Sense-The,-1.0,5
+75,8,14,movie: Sleepy-Hollow,-0.9999999999999999,5
+75,8,14,movie: Slither,1.0,5
+75,8,14,movie: So-I-Married-an-Axe-Murderer,1.0,5
+75,8,14,movie: Some-Like-It-Hot,-1.0,5
+75,8,14,movie: Spider-Man,-1.0,5
+75,8,14,movie: Spider-Man-Into-the-Spider-Verse,-0.7000955243273872,5
+75,8,14,movie: Star-Wars-Episode-II-Attack-of-the-Clones,-0.8890617050747688,5
+75,8,14,movie: Star-Wars-Episode-V-The-Empire-Strikes-Back,-0.9999999999999998,5
+75,8,14,movie: Starman,0.39716587843923895,5
+75,8,14,movie: Strange-Days,-0.76887518490312,5
+75,8,14,movie: Surfer-King-The,-0.8656879030267578,5
+75,8,14,movie: Sweet-Smell-of-Success,0.9999999999999998,5
+75,8,14,movie: The-Apartmen,1.0,5
+75,8,14,movie: The-Jackie-Robinson-Story,1.0,5
+75,8,14,movie: The-Swimmer,-1.0,5
+75,8,14,movie: Thirteen-Days,1.0,5
+75,8,14,movie: Thor-Ragnarok,1.0,5
+75,8,14,movie: Three-Musketeers-The,-0.027526144763306774,5
+75,8,14,movie: To-Sleep-With-Anger,-0.9999999999999998,5
+75,8,14,movie: Trainwreck,-1.0,5
+75,8,14,movie: True-Lies,0.9457105032351758,5
+75,8,14,movie: Truman-Show-The,0.9761985210393179,5
+75,8,14,movie: Vice,-1.0,5
+75,8,14,movie: Viridiana,1.0,5
+75,8,14,movie: Wall-Street,0.7965185560856295,5
+75,8,14,movie: Wall-Street-Money-Never-Sleeps,-1.0,5
+75,8,14,movie: War-for-the-Planet-of-the-Apes,1.0,5
+75,8,14,movie: Whistleblower-The,0.21010734933414835,5
+75,8,14,movie: White-Squall,0.5071518034382099,5
+75,8,14,movie: White-Tiger-The,-1.0,5
+75,8,14,movie: Woman-in-Gold,-0.9999999999999999,5
+75,8,14,movie: X-Men,-0.9999999999999999,5
+75,8,14,shepard_fairey,0.1250923302030048,5
+75,8,15,franck_slama,-0.2013917425213044,5
+75,8,15,jackson_pollock,-0.10312189611400588,5
+75,8,15,juan_gris,0.42078473340527517,5
+75,8,15,keith_haring,0.10512566680959304,5
+75,8,15,movie: 28-Days-Later,-1.0,5
+75,8,15,movie: Above-the-Law,1.0,5
+75,8,15,movie: American-Beauty,-1.0,5
+75,8,15,movie: American-History-X,-0.998584770541482,5
+75,8,15,movie: April-Fools-Day,-1.0,5
+75,8,15,movie: Arctic-Blue,1.0,5
+75,8,15,movie: Assassin,0.11041658234568909,5
+75,8,15,movie: Atomic-Submarine,-1.0,5
+75,8,15,movie: Avatar,-0.7795809446866052,5
+75,8,15,movie: Avengers-Endgame,-1.0,5
+75,8,15,movie: Awakenings,-1.0,5
+75,8,15,movie: Babel,-1.0,5
+75,8,15,movie: Bad-Boys,-0.9999999999999999,5
+75,8,15,movie: Batman-2,-1.0,5
+75,8,15,movie: Beach-The,1.0,5
+75,8,15,movie: Bean,-1.0,5
+75,8,15,movie: Birthday-Girl,-1.0,5
+75,8,15,movie: Black-Rain,-1.0,5
+75,8,15,movie: Blade,-1.0,5
+75,8,15,movie: Blade-II,1.0,5
+75,8,15,movie: Body-Heat,1.0,5
+75,8,15,movie: Boondock-Saints-The,-0.9999999999999998,5
+75,8,15,movie: Borat-Subsequent-Moviefilm,-1.0,5
+75,8,15,movie: Bounty-Hunter-The,-0.9999998361457578,5
+75,8,15,movie: Broadcast-News,-0.9020463661036748,5
+75,8,15,movie: Brothers-Bloom-The,-0.9999999999999998,5
+75,8,15,movie: Butterfly-Effect-The,-0.07878694467588938,5
+75,8,15,movie: Can-You-Ever-Forgive-Me,1.0,5
+75,8,15,movie: Candle-to-Water,0.42810536835476876,5
+75,8,15,movie: Cat-People,1.0,5
+75,8,15,movie: Changeling,-1.0,5
+75,8,15,movie: Chinatown,-1.0,5
+75,8,15,movie: Cliffhanger,1.0,5
+75,8,15,movie: Crime-Spree,-0.9999999999999999,5
+75,8,15,movie: Crow-Salvation-The,-1.0,5
+75,8,15,movie: Dallas-Buyers-Club,0.40473221395504433,5
+75,8,15,movie: Darkman,1.0,5
+75,8,15,movie: Deep-Rising,-1.0,5
+75,8,15,movie: Detroit-Rock-City,-1.0,5
+75,8,15,movie: Dog-Day-Afternoon,-0.9999999999999999,5
+75,8,15,movie: Dragonslayer,1.0,5
+75,8,15,movie: Drive,-0.9999999999999998,5
+75,8,15,movie: Dunkirk,-1.0,5
+75,8,15,movie: Evil-Dead-II-Dead-by-Dawn,-1.0,5
+75,8,15,movie: Extract,1.0,5
+75,8,15,movie: Eye-in-the-Sky,-1.0,5
+75,8,15,movie: Face-Off,1.0,5
+75,8,15,movie: Final-Destination-2,-1.0,5
+75,8,15,movie: Freaked,0.9999999999999999,5
+75,8,15,movie: Friday-the-13th,0.9999999999999999,5
+75,8,15,movie: Fruitvale-Station,-1.0,5
+75,8,15,movie: Gamer,-1.0,5
+75,8,15,movie: Gandhi,-0.7067562575911194,5
+75,8,15,movie: Get-on-Up,-1.0,5
+75,8,15,movie: Godfather,-0.016420386322791063,5
+75,8,15,movie: Godfather-Part-II,-1.0,5
+75,8,15,movie: Gold,1.0,5
+75,8,15,movie: Grifters-The,-1.0,5
+75,8,15,movie: Grosse-Point-Blank,1.0,5
+75,8,15,movie: Harry-Potter-and-the-Chamber-of-Secrets,-1.0,5
+75,8,15,movie: Haunting-The,1.0,5
+75,8,15,movie: Hesher,-1.0,5
+75,8,15,movie: Hitchcock,-1.0,5
+75,8,15,movie: Hitchhikers-Guide-to-the-Galaxy-The,1.0,5
+75,8,15,movie: Horse-Whisperer-The,-1.0,5
+75,8,15,movie: Hospital-The,0.9999999999999999,5
+75,8,15,movie: Hostage,1.0,5
+75,8,15,movie: Hudson-Hawk,0.9992222128321614,5
+75,8,15,movie: Human-Nature,-0.9999999999999999,5
+75,8,15,movie: Imitation-Game,-1.0,5
+75,8,15,movie: Independence-Day,-1.0,5
+75,8,15,movie: Indiana-Jones-IV,1.0,5
+75,8,15,movie: Indiana-Jones-and-the-Raiders-of-the-Lost-Ark,0.9999999999999999,5
+75,8,15,movie: Informant-The,-1.0,5
+75,8,15,movie: Interstellar,-0.6512072441276139,5
+75,8,15,movie: Into-the-Wild,0.9990617613822159,5
+75,8,15,movie: Island-The,0.12419544031696313,5
+75,8,15,movie: Jacket-The,-1.0,5
+75,8,15,movie: Jennifer-Eight,0.7981123020243412,5
+75,8,15,movie: Jennifers-Body,-1.0,5
+75,8,15,movie: Joker,1.0,5
+75,8,15,movie: Lady-Bird,-1.0,5
+75,8,15,movie: Last-Boy-Scout-The,1.0,5
+75,8,15,movie: Last-Ship-The,-0.6816549528163522,5
+75,8,15,movie: Leaving-Las-Vegas,-1.0,5
+75,8,15,movie: Lethal-Weapon,1.0,5
+75,8,15,movie: Long-Kiss-Goodnight-The,1.0,5
+75,8,15,movie: MASH,-1.0,5
+75,8,15,movie: Majestic-The-The,-1.0,5
+75,8,15,movie: Malcolm-X,1.0,5
+75,8,15,movie: Man-Who-Wasnt-There-The,-1.0,5
+75,8,15,movie: Mechanic-The,-0.2724208479435954,5
+75,8,15,movie: Meet-Joe-Black,-0.4197779504670205,5
+75,8,15,movie: Men-in-Black,1.0,5
+75,8,15,movie: Midsommar,-1.0,5
+75,8,15,movie: Mighty-Joe-Young,1.0,5
+75,8,15,movie: Mission-Impossible-II,-1.0,5
+75,8,15,movie: Mr-Brooks,-1.0,5
+75,8,15,movie: Mulholland-Drive,-1.0,5
+75,8,15,movie: My-Week-with-Marilyn,1.0,5
+75,8,15,movie: Nashville,1.0,5
+75,8,15,movie: Nightmare-on-Elm-Street-A,-1.0,5
+75,8,15,movie: Nightmare-on-Elm-Street-The-Final-Chapter,1.0,5
+75,8,15,movie: O-Brother-Where-Art-Thou,1.0,5
+75,8,15,movie: Orphan,0.499254446562674,5
+75,8,15,movie: Other-Boleyn-Girl-The,1.0,5
+75,8,15,movie: Patriot-The,-0.6908150228266583,5
+75,8,15,movie: Pawn-Sacrifice,-1.0,5
+75,8,15,movie: Peggy-Sue-Got-Married,-1.0,5
+75,8,15,movie: Piano-The,0.7104785629576531,5
+75,8,15,movie: Planet-of-the-Apes-The,-0.9999999999999998,5
+75,8,15,movie: Platoon,0.9481410393086394,5
+75,8,15,movie: Possession,1.0,5
+75,8,15,movie: Prom-Night,-1.0,5
+75,8,15,movie: Prometheus,-1.0,5
+75,8,15,movie: Rachel-Getting-Married,-1.0,5
+75,8,15,movie: Rambling-Rose,-0.9217969338935492,5
+75,8,15,movie: Rebel-Without-A-Cause,-1.0,5
+75,8,15,movie: Red-White-Black-and-Blue,0.9999999999999998,5
+75,8,15,movie: Revenant-The,-0.13750505436085583,5
+75,8,15,movie: Rise-of-the-Guardians,0.9327680909030348,5
+75,8,15,movie: Rise-of-the-Planet-of-the-Apes,1.0,5
+75,8,15,movie: RocknRolla,-1.0,5
+75,8,15,movie: Rocky,1.0,5
+75,8,15,movie: Roughshod,1.0,5
+75,8,15,movie: Rush-Hour,-0.9999999999999999,5
+75,8,15,movie: Salton-Sea-The,-1.0,5
+75,8,15,movie: Searchers-The,1.0,5
+75,8,15,movie: Sherlock-Holmes,1.0,5
+75,8,15,movie: Silver-Bullet,-1.0,5
+75,8,15,movie: Sister-Act,-1.0,5
+75,8,15,movie: Smokin-Aces,-1.0,5
+75,8,15,movie: Snow-White-and-the-Huntsman,-1.0,5
+75,8,15,movie: Soldier,-0.6916302467316887,5
+75,8,15,movie: Someone-To-Watch-Over-Me,-0.9995191653241726,5
+75,8,15,movie: Sound-of-Metal,-1.0,5
+75,8,15,movie: Spider-Man-Into-the-Spider-Verse,-1.0,5
+75,8,15,movie: Star-Trek-First-Contact,0.6094991832889318,5
+75,8,15,movie: Star-Wars-A-New-Hope,0.9999999999999999,5
+75,8,15,movie: Star-Wars-Episode-III-Revenge-of-the-Sith,-1.0,5
+75,8,15,movie: Star-Wars-Episode-V-The-Empire-Strikes-Back,0.053979014636525297,5
+75,8,15,movie: Star-Wars-The-Phantom-Menace,-1.0,5
+75,8,15,movie: Straight-Outta-Compton,-0.5802413609000066,5
+75,8,15,movie: Sweeney-Todd-The-Demon-Barber-of-Fleet-Street,-1.0,5
+75,8,15,movie: Syriana,-1.0,5
+75,8,15,movie: THX,-1.0,5
+75,8,15,movie: TRON,-0.9999999999999999,5
+75,8,15,movie: Taking-Sides,1.0,5
+75,8,15,movie: Talented-Mr-Ripley-The,1.0,5
+75,8,15,movie: The-Apartmen,1.0,5
+75,8,15,movie: This-Boys-Life,-0.5884434183305755,5
+75,8,15,movie: Time-Machine-The,1.0,5
+75,8,15,movie: Tombstone,0.906696262266713,5
+75,8,15,movie: Toy-Story,-1.0,5
+75,8,15,movie: Twins,-0.6072201818432076,5
+75,8,15,movie: Uncut-Gems,1.0,5
+75,8,15,movie: Up,-1.0,5
+75,8,15,movie: Virtuosity,1.0,5
+75,8,15,movie: Wall-Street-Money-Never-Sleeps,-0.9999999999999999,5
+75,8,15,movie: Who-Framed-Roger-Rabbit,-0.9999999999999999,5
+75,8,15,movie: Wild-Bunch-The,-0.597944776772809,5
+75,8,15,movie: Wild-Things,0.6027425009727191,5
+75,8,15,movie: Wizard-of-Oz-The,1.0,5
+75,8,15,movie: World-is-not-Enough-The,-0.9999999999999999,5
+75,8,15,movie: Wreck-it-Ralph,1.0,5
+75,8,15,shepard_fairey,-0.3075893628315916,5
+75,9,7,franck_slama,0.857800214809101,5
+75,9,7,jackson_pollock,-0.535103413851271,5
+75,9,7,juan_gris,0.285891530201868,5
+75,9,7,keith_haring,-0.19608613267294459,5
+75,9,7,movie: Anna-Karenina,0.9999999999999999,5
+75,9,7,movie: Apollo-13,0.9896791952835263,5
+75,9,7,movie: Avenge,1.0,5
+75,9,7,movie: Casino,-1.0,5
+75,9,7,movie: Changeling,-0.9999999999999998,5
+75,9,7,movie: Creation,-1.0,5
+75,9,7,movie: Crow-Salvation-The,1.0,5
+75,9,7,movie: Dances-with-Wolves,1.0,5
+75,9,7,movie: Diner,-1.0,5
+75,9,7,movie: Erin-Brockovich,1.0,5
+75,9,7,movie: Face-Off,-1.0,5
+75,9,7,movie: Getaway-The,1.0,5
+75,9,7,movie: Help-The,0.9999999999999999,5
+75,9,7,movie: Independence-Day,-1.0,5
+75,9,7,movie: Invictus,0.9999999999999998,5
+75,9,7,movie: Jurassic-Park,-1.0,5
+75,9,7,movie: Ninja-Assassin,0.4066313191208761,5
+75,9,7,movie: Passengers,0.9999999999999998,5
+75,9,7,movie: Requiem-for-a-Dream,-0.9999999999999998,5
+75,9,7,movie: Rise-of-the-Guardians,0.9999999999999999,5
+75,9,7,movie: Seven,0.9999999999999999,5
+75,9,7,movie: Soldier,-1.0,5
+75,9,7,movie: Trumbo,-1.0,5
+75,9,7,movie: Wizard-of-Oz-The,1.0,5
+75,9,7,movie: Wonder-Boys,-1.0,5
+75,9,7,shepard_fairey,0.956032920590934,5
+75,9,8,jackson_pollock,0.9999999999999998,5
+75,9,8,juan_gris,-0.01865008815905597,5
+75,9,8,keith_haring,0.4041405211685178,5
+75,9,8,movie: Almost-Famous,-0.9999999999999999,5
+75,9,8,movie: April-Fools-Day,-0.9999999999999999,5
+75,9,8,movie: Assignment-The,1.0,5
+75,9,8,movie: Atomic-Submarine,1.0,5
+75,9,8,movie: Avatar,-1.0,5
+75,9,8,movie: Brazil,0.19776783569392886,5
+75,9,8,movie: Deer-Hunter-The,0.9999999999999999,5
+75,9,8,movie: Devil-in-a-Blue-Dress,1.0,5
+75,9,8,movie: Ed-Wood,-1.0,5
+75,9,8,movie: Fantastic-Four,0.04198371285326185,5
+75,9,8,movie: Flash-Gordon,1.0,5
+75,9,8,movie: Game-The,-0.9999999999999999,5
+75,9,8,movie: Get-on-Up,1.0,5
+75,9,8,movie: Godfather,1.0,5
+75,9,8,movie: Hannibal,-1.0,5
+75,9,8,movie: Life,-0.9999999999999999,5
+75,9,8,movie: Monsters-Ball,1.0,5
+75,9,8,movie: Pearl-Harbor,1.0,5
+75,9,8,movie: Planet-of-the-Apes-The,1.0,5
+75,9,8,movie: Roughshod,-0.1752293775238347,5
+75,9,8,movie: Se7en,1.0,5
+75,9,8,movie: Sounder,1.0,5
+75,9,8,movie: Star-Wars-Episode-V-The-Empire-Strikes-Back,-0.5001575917941776,5
+75,9,8,movie: True-Romance,1.0,5
+75,9,8,movie: U-Turn,1.0,5
+75,9,8,shepard_fairey,1.0,5
+75,9,9,franck_slama,0.2881971636104574,5
+75,9,9,jackson_pollock,0.03100644418466684,5
+75,9,9,juan_gris,0.12799055190132005,5
+75,9,9,keith_haring,-0.38992504248335047,5
+75,9,9,movie: 3-Kings,0.7088125603457752,5
+75,9,9,movie: Bonnie-and-Clyde,0.9999999999999999,5
+75,9,9,movie: Cinema-Paradiso,0.9999999999999999,5
+75,9,9,movie: Devil-Wears-Prada-The,-1.0,5
+75,9,9,movie: Hes-Just-Not-That-Into-You,1.0,5
+75,9,9,movie: Hudson-Hawk,-1.0,5
+75,9,9,movie: Indiana-Jones-IV,-1.0,5
+75,9,9,movie: Interstellar,-1.0,5
+75,9,9,movie: LAvventura,0.9999999999999999,5
+75,9,9,movie: Leaving-Las-Vegas,-1.0,5
+75,9,9,movie: Leviathan,-1.0,5
+75,9,9,movie: Mud,1.0,5
+75,9,9,movie: Oblivion,1.0,5
+75,9,9,movie: Perfect-Creature,-1.0,5
+75,9,9,movie: Platoon,0.7558998665616231,5
+75,9,9,movie: Rabid,1.0,5
+75,9,9,movie: Red-Riding-Hood,-0.7859354237298941,5
+75,9,9,movie: Sugar-and-Spice,0.947743982037858,5
+75,9,9,movie: Sweet-Smell-of-Success,1.0,5
+75,9,9,movie: True-Lies,-1.0,5
+75,9,9,movie: Usual-Suspects-The,-1.0,5
+75,9,9,shepard_fairey,0.492018504837252,5
+75,9,10,franck_slama,-0.4599421004609825,5
+75,9,10,jackson_pollock,-0.5800052452350785,5
+75,9,10,juan_gris,-0.620288365612216,5
+75,9,10,keith_haring,-0.3793581156747215,5
+75,9,10,movie: Agnes-of-God,-1.0,5
+75,9,10,movie: Apocalypse-Now,1.0,5
+75,9,10,movie: At-First-Site,-1.0,5
+75,9,10,movie: Captain-Fantastic,-1.0,5
+75,9,10,movie: Elephant-Man-The,1.0,5
+75,9,10,movie: Excalibur,-0.9999999999999999,5
+75,9,10,movie: Fair-Game,1.0,5
+75,9,10,movie: Father-The,-1.0,5
+75,9,10,movie: Freaked,-1.0,5
+75,9,10,movie: Freddy-vs-Jason,-1.0,5
+75,9,10,movie: Interstellar,-0.6305367895915531,5
+75,9,10,movie: Larry-Crowne,-1.0,5
+75,9,10,movie: Last-of-the-Mohicans-The,-0.7789246157670573,5
+75,9,10,movie: Little-Women,0.8036090310785426,5
+75,9,10,movie: Lord-of-Illusions,-1.0,5
+75,9,10,movie: Lord-of-the-Rings-The-Two-Towers,0.9999999999999999,5
+75,9,10,movie: Max-Payne,1.0,5
+75,9,10,movie: Nixon,1.0,5
+75,9,10,movie: Place-Beyond-the-Pine-The,-0.9999999999999999,5
+75,9,10,movie: Replacements-The,-0.9999999999999998,5
+75,9,10,movie: Rush-Hour-2,-1.0,5
+75,9,10,movie: Rushmore,-1.0,5
+75,9,10,movie: Silverado,-0.9999999999999999,5
+75,9,10,movie: Star-Wars-Episode-III-Revenge-of-the-Sith,-0.9173201833584732,5
+75,9,10,movie: Stir-of-Echoes,1.0,5
+75,9,10,movie: The-Adventures-of-Buckaroo-Banzai-Across-the-8th-Dimension,1.0,5
+75,9,10,movie: The-Straight-Story,1.0,5
+75,9,10,movie: Woman-in-Gold,-1.0,5
+75,9,10,movie: Wonder-Woman,-1.0,5
+75,9,10,shepard_fairey,0.4593739069074407,5
+75,9,11,franck_slama,0.17783367032722863,5
+75,9,11,jackson_pollock,-0.3390989918375917,5
+75,9,11,juan_gris,-0.5247947731721655,5
+75,9,11,keith_haring,0.012978616569032098,5
+75,9,11,movie: Aliens,-1.0,5
+75,9,11,movie: Beginners,1.0,5
+75,9,11,movie: Bridget-Joness-Baby,1.0,5
+75,9,11,movie: Creation,0.578661828145154,5
+75,9,11,movie: Diner,1.0,5
+75,9,11,movie: First-They-Killed-My-Father,1.0,5
+75,9,11,movie: Flight,0.9999999999999998,5
+75,9,11,movie: Friday-the-13th-Part-VIII-Jason-Takes-Manhattan,-1.0,5
+75,9,11,movie: Heat,1.0,5
+75,9,11,movie: Heavy-Metal,-1.0,5
+75,9,11,movie: Indiana-Jones-IV,-1.0,5
+75,9,11,movie: Interstellar,-1.0,5
+75,9,11,movie: Invictus,-1.0,5
+75,9,11,movie: Labor-of-Love,1.0,5
+75,9,11,movie: Lord-of-Illusions,1.0,5
+75,9,11,movie: Metro,0.9999999999999999,5
+75,9,11,movie: Ni-vu-ni-connu,0.9999999999999999,5
+75,9,11,movie: Obsessed,-1.0,5
+75,9,11,movie: Out-of-Sight,1.0,5
+75,9,11,movie: Princess-Bride-The,1.0,5
+75,9,11,movie: Rocky,0.9999999999999998,5
+75,9,11,movie: Scarlet-Letter-The,-1.0,5
+75,9,11,movie: Shakespeare-in-Love,-0.9999999999999999,5
+75,9,11,movie: Soul,1.0,5
+75,9,11,movie: Spotlight,-1.0,5
+75,9,11,movie: Tomb-Raider,1.0,5
+75,9,11,movie: Unforgiven,0.9999999999999998,5
+75,9,11,movie: We-Own-the-Night,-0.9999999999999998,5
+75,9,11,movie: While-Were-Young,-1.0,5
+75,9,11,movie: Wild-Things,0.9999999999999998,5
+75,9,11,shepard_fairey,-0.9276629200397415,5
+75,9,12,franck_slama,-0.7094548608477085,5
+75,9,12,jackson_pollock,-0.6605478404419576,5
+75,9,12,juan_gris,0.9894256530943044,5
+75,9,12,keith_haring,0.462834785582825,5
+75,9,12,movie: Apollo-13,-1.0,5
+75,9,12,movie: Avatar,-1.0,5
+75,9,12,movie: Boxtrolls-The,1.0,5
+75,9,12,movie: Halloween-The-Curse-of-Michael-Myers,0.9999999999999999,5
+75,9,12,movie: Hard-to-Kill,1.0,5
+75,9,12,movie: Harry-Potter-and-the-Chamber-of-Secrets,1.0,5
+75,9,12,movie: Horse-Whisperer-The,1.0,5
+75,9,12,movie: Life-As-A-House,-1.0,5
+75,9,12,movie: Man-On-Fire,1.0,5
+75,9,12,movie: Roughshod,1.0,5
+75,9,12,movie: Semi-Pro,-1.0,5
+75,9,12,movie: Signs,-1.0,5
+75,9,12,movie: Star-Wars-Episode-III-Revenge-of-the-Sith,-0.9999999999999999,5
+75,9,12,movie: THX,-1.0,5
+75,9,12,movie: Take-Shelter,1.0,5
+75,9,12,movie: Top-Gun,-1.0,5
+75,9,12,movie: Twilight,1.0,5
+75,9,12,movie: Un-Singe-en-Hiver,-1.0,5
+75,9,12,movie: Unbroken,0.20254522071249126,5
+75,9,12,movie: Up-in-the-Air,-1.0,5
+75,9,12,shepard_fairey,1.0,5
+75,9,13,franck_slama,0.2916200975875925,5
+75,9,13,jackson_pollock,0.34492443305536225,5
+75,9,13,juan_gris,-0.8344688599833934,5
+75,9,13,keith_haring,-0.2303424766414726,5
+75,9,13,movie: Absolute-Power,-0.014678205210933779,5
+75,9,13,movie: Amelia,-0.9999999999999999,5
+75,9,13,movie: Bad-Teacher,1.0,5
+75,9,13,movie: Can-You-Ever-Forgive-Me,-1.0,5
+75,9,13,movie: Cinema-Paradiso,-1.0,5
+75,9,13,movie: Cold-Mountain,-1.0,5
+75,9,13,movie: Dog-Day-Afternoon,-1.0,5
+75,9,13,movie: Evil-Dead-II-Dead-by-Dawn,-1.0,5
+75,9,13,movie: Frances,-1.0,5
+75,9,13,movie: Funny-People,-1.0,5
+75,9,13,movie: Get-Out,1.0,5
+75,9,13,movie: Gone-Baby-Gone,1.0,5
+75,9,13,movie: Hancock,1.0,5
+75,9,13,movie: Heist,-1.0,5
+75,9,13,movie: Horse-Whisperer-The,-0.772624696631271,5
+75,9,13,movie: Its-a-Wonderful-Life,1.0,5
+75,9,13,movie: Judge-Dredd,0.9999999999999999,5
+75,9,13,movie: Jurassic-Park-The-Lost-World,-0.3273160551985283,5
+75,9,13,movie: Lord-of-the-Rings-The-Two-Towers,1.0,5
+75,9,13,movie: Ma-Raineys-Black-Bottom,-1.0,5
+75,9,13,movie: Machine-Gun-Preacher,1.0,5
+75,9,13,movie: Malcolm-X,-1.0,5
+75,9,13,movie: Man-Who-Knew-Too-Much-The,-0.9999999999999999,5
+75,9,13,movie: Outbreak,-1.0,5
+75,9,13,movie: Predator,1.0,5
+75,9,13,movie: Real-Genius,1.0,5
+75,9,13,movie: Romeo-Julie,-0.2971275149567291,5
+75,9,13,movie: Seven-Days-to-Live,-1.0,5
+75,9,13,movie: Silence-of-the-Lambs,-0.9999999999999999,5
+75,9,13,movie: Star-Wars-Return-of-the-Jedi,-1.0,5
+75,9,13,movie: Syriana,-1.0,5
+75,9,13,movie: Taking-of-Pelham-One-Two-Three-The,1.0,5
+75,9,13,movie: The-Irishman,1.0,5
+75,9,13,movie: Tomb-Raider,-1.0,5
+75,9,13,movie: True-Lies,-0.9959517359518033,5
+75,9,13,movie: Way-Back-The,1.0,5
+75,9,13,movie: Woman-in-Gold,1.0,5
+75,9,13,shepard_fairey,-0.8837383548668046,5
+75,9,14,jackson_pollock,0.4374689533447852,5
+75,9,14,juan_gris,-0.17517688366615522,5
+75,9,14,keith_haring,-0.5434415621067981,5
+75,9,14,movie: Air-Force-One,1.0,5
+75,9,14,movie: Anchorman,1.0,5
+75,9,14,movie: Angels-Demons,-1.0,5
+75,9,14,movie: Big-White-The,-1.0,5
+75,9,14,movie: Black-Rain,1.0,5
+75,9,14,movie: Broadcast-News,-0.9999999999999999,5
+75,9,14,movie: Carrie,-0.9999999999999999,5
+75,9,14,movie: Conan-the-Barbarian,1.0,5
+75,9,14,movie: Dave,-1.0,5
+75,9,14,movie: Day-the-Clown-Cried-The,1.0,5
+75,9,14,movie: Disturbia,0.9999999999999998,5
+75,9,14,movie: Excalibur,-0.9999999999999998,5
+75,9,14,movie: Flight,0.9999999999999998,5
+75,9,14,movie: Freddy-vs-Jason,1.0,5
+75,9,14,movie: Fright-Night,-1.0,5
+75,9,14,movie: Godzilla,-1.0,5
+75,9,14,movie: Guardians-of-the-Galaxy-Vol-2,-1.0,5
+75,9,14,movie: Hebrew-Hammer-The,-1.0,5
+75,9,14,movie: Hustler-The,-1.0,5
+75,9,14,movie: Independence-Day,-0.9999999999999998,5
+75,9,14,movie: Jane-Eyre,1.0,5
+75,9,14,movie: Miami-Vice,-1.0,5
+75,9,14,movie: Monkeybone,-1.0,5
+75,9,14,movie: Moon,-1.0,5
+75,9,14,movie: Poltergeist,-1.0,5
+75,9,14,movie: Producers,0.8573599406962812,5
+75,9,14,movie: Red-White-Black-and-Blue,-1.0,5
+75,9,14,movie: Save-the-Last-Dance,0.23631091209855778,5
+75,9,14,movie: Sister-Act,1.0,5
+75,9,14,movie: Slither,1.0,5
+75,9,14,movie: Star-Wars-Return-of-the-Jedi,-1.0,5
+75,9,14,movie: The-Shawshank-Redemption,-0.9999999999999999,5
+75,9,14,movie: Tremors,-0.9999999999999999,5
+75,9,14,shepard_fairey,-0.08032823218769095,5
+75,9,15,franck_slama,0.3755826163252511,5
+75,9,15,jackson_pollock,0.09598475789383328,5
+75,9,15,juan_gris,-0.0496727985293695,5
+75,9,15,keith_haring,-0.524564817168879,5
+75,9,15,movie: Abyss-The,-0.9999999999999999,5
+75,9,15,movie: Anchorman,-1.0,5
+75,9,15,movie: Assassins,-1.0,5
+75,9,15,movie: Avatar,-1.0,5
+75,9,15,movie: Beasts-of-No-Nation,1.0,5
+75,9,15,movie: Beloved,-1.0,5
+75,9,15,movie: Bones,-0.9999999999999999,5
+75,9,15,movie: Carrie,-0.852198644828358,5
+75,9,15,movie: City-of-Joy,-0.9999999999999998,5
+75,9,15,movie: Eastern-Promises,1.0,5
+75,9,15,movie: Grudge-The,1.0,5
+75,9,15,movie: Heavy-Metal,1.0,5
+75,9,15,movie: Judge-Dredd,1.0,5
+75,9,15,movie: Legend-of-Darkness,0.9234362805682278,5
+75,9,15,movie: Outbreak,0.9999999999999998,5
+75,9,15,movie: Postman-The,-0.2637228852640523,5
+75,9,15,movie: Prom-The,1.0,5
+75,9,15,movie: Rust-and-Bone,0.9999999999999999,5
+75,9,15,movie: Save-the-Last-Dance,-1.0,5
+75,9,15,movie: Social-Network-The,1.0,5
+75,9,15,movie: Spotlight,-1.0,5
+75,9,15,movie: Terminator-Salvation,1.0,5
+75,9,15,movie: Toy-Story,0.9999999999999999,5
+75,9,15,shepard_fairey,-1.0,5
+75,10,7,franck_slama,0.08658118876700292,5
+75,10,7,jackson_pollock,-0.1290384424152532,5
+75,10,7,juan_gris,0.24973807796481406,5
+75,10,7,keith_haring,-0.6427662322533789,5
+75,10,7,movie: 8MM,-0.9999999999999998,5
+75,10,7,movie: Aliens,0.5434722866394078,5
+75,10,7,movie: Almost-Famous,0.9999999999999999,5
+75,10,7,movie: Animal-Kingdom,0.9999999999999999,5
+75,10,7,movie: Cedar-Rapids,-0.9999999999999999,5
+75,10,7,movie: Chinatown,1.0,5
+75,10,7,movie: Day-of-the-Dead,1.0,5
+75,10,7,movie: Doors-The,1.0,5
+75,10,7,movie: Downsizing,-1.0,5
+75,10,7,movie: Executive-Decision,-0.9999999999999999,5
+75,10,7,movie: Frankenstein,-1.0,5
+75,10,7,movie: Fugitive-The,-1.0,5
+75,10,7,movie: Godfather,-1.0,5
+75,10,7,movie: Indiana-Jones-Last-Crusade,1.0,5
+75,10,7,movie: Insidious,-1.0,5
+75,10,7,movie: Mummy-The,-0.9999999999999998,5
+75,10,7,movie: One-Saliva-Bubble,0.9999999999999998,5
+75,10,7,movie: Priest,0.9999999999999998,5
+75,10,7,movie: Replacements-The,0.2773413180965561,5
+75,10,7,movie: They,1.0,5
+75,10,7,movie: Tomorrow-Never-Die,0.9999999999999998,5
+75,10,7,movie: Truman-Show-The,1.0,5
+75,10,7,movie: Twin-Peaks,1.0,5
+75,10,7,shepard_fairey,-1.0,5
+75,10,8,franck_slama,0.9143800765684746,5
+75,10,8,jackson_pollock,0.09901818349636617,5
+75,10,8,juan_gris,1.0,5
+75,10,8,keith_haring,-0.8634478420892737,5
+75,10,8,movie: Awakenings,-1.0,5
+75,10,8,movie: Birds-The,-1.0,5
+75,10,8,movie: Blood-and-Wine,0.9999999999999998,5
+75,10,8,movie: Boxtrolls-The,0.2906211855141947,5
+75,10,8,movie: Catch-Me-If-You-Can,1.0,5
+75,10,8,movie: Crazylove,1.0,5
+75,10,8,movie: Deep-Rising,0.9439211391142134,5
+75,10,8,movie: Escape-From-LA,-0.9999999999999999,5
+75,10,8,movie: Getaway-The,-1.0,5
+75,10,8,movie: Godfather-Part-III-The,1.0,5
+75,10,8,movie: Hostage,1.0,5
+75,10,8,movie: Jacobs-Ladder,1.0,5
+75,10,8,movie: Lord-of-the-Rings-Fellowship-of-the-Ring-The,-1.0,5
+75,10,8,movie: Orphan,1.0,5
+75,10,8,movie: Relic-The,1.0,5
+75,10,8,movie: Signs,1.0,5
+75,10,8,movie: Slumdog-Millionaire,1.0,5
+75,10,8,movie: Snow-White-and-the-Huntsman,-1.0,5
+75,10,8,movie: TMNT,-1.0,5
+75,10,8,movie: Who-Framed-Roger-Rabbit,1.0,5
+75,10,8,movie: Wild-Things,1.0,5
+75,10,8,shepard_fairey,1.0,5
+75,10,9,franck_slama,0.04852375021192227,5
+75,10,9,jackson_pollock,0.12502296892794768,5
+75,10,9,juan_gris,-0.9936520897962494,5
+75,10,9,keith_haring,0.4347689901364606,5
+75,10,9,movie: American-History-X,1.0,5
+75,10,9,movie: Avengers-Endgame,-1.0,5
+75,10,9,movie: Batman-Returns,1.0,5
+75,10,9,movie: Blade-Runner,1.0,5
+75,10,9,movie: Crime-Spree,1.0,5
+75,10,9,movie: Evil-Dead-II-Dead-by-Dawn,-1.0,5
+75,10,9,movie: Flash-Gordon,1.0,5
+75,10,9,movie: Flintstones-The,-1.0,5
+75,10,9,movie: Frequency,-1.0,5
+75,10,9,movie: Gandh,-0.9999999999999998,5
+75,10,9,movie: Girl-on-a-Train-The,-1.0,5
+75,10,9,movie: Godzilla,1.0,5
+75,10,9,movie: Gold,-1.0,5
+75,10,9,movie: Hesher,1.0,5
+75,10,9,movie: King-of-Comedy-The,-1.0,5
+75,10,9,movie: Kramer-versus-Krame,-1.0,5
+75,10,9,movie: Memphis-Belle,-1.0,5
+75,10,9,movie: Mission-Impossible,-1.0,5
+75,10,9,movie: Moonrise-Kingdom,0.5431343430699416,5
+75,10,9,movie: Next-Three-Days-The,1.0,5
+75,10,9,movie: Orphan,-1.0,5
+75,10,9,movie: Pet-Sematary,1.0,5
+75,10,9,movie: Rabid,-1.0,5
+75,10,9,movie: Shipping-News-The,1.0,5
+75,10,9,movie: Someone-To-Watch-Over-Me,1.0,5
+75,10,9,movie: Spartan,1.0,5
+75,10,9,movie: Star-Wars-A-New-Hope,1.0,5
+75,10,9,movie: Thing-The,-0.9773343567363637,5
+75,10,9,movie: Tomorrow-Never-Die,-1.0,5
+75,10,9,movie: Tourist-The,0.9948635163400282,5
+75,10,9,movie: Vice,-1.0,5
+75,10,9,shepard_fairey,0.17669652233009847,5
+75,10,10,franck_slama,-0.22365567675549558,5
+75,10,10,jackson_pollock,-0.027428590967975938,5
+75,10,10,juan_gris,0.22302704030313927,5
+75,10,10,keith_haring,0.022241450633091447,5
+75,10,10,movie: Badlands,-1.0,5
+75,10,10,movie: Blue-Valentine,-0.9999999999999999,5
+75,10,10,movie: Bonnie-and-Clyde,-1.0,5
+75,10,10,movie: Deadpool,0.8256260086403406,5
+75,10,10,movie: Devil-and-Daniel-Webster-The,-1.0,5
+75,10,10,movie: Field-of-Dreams,1.0,5
+75,10,10,movie: Godfather,0.9999999999999999,5
+75,10,10,movie: Gone-Baby-Gone,-1.0,5
+75,10,10,movie: Into-the-Woods,-1.0,5
+75,10,10,movie: Invictus,-0.7710881092945574,5
+75,10,10,movie: Kate-Leopold,0.9999999999999998,5
+75,10,10,movie: Last-Samurai-The,1.0,5
+75,10,10,movie: Life-of-David-Gale-The,-0.8021929025834134,5
+75,10,10,movie: MASH,-1.0,5
+75,10,10,movie: Man-Who-Knew-Too-Much-The,1.0,5
+75,10,10,movie: No-Strings-Attached,1.0,5
+75,10,10,movie: One-Eight-Seven,1.0,5
+75,10,10,movie: One-Saliva-Bubble,-0.018302101992045034,5
+75,10,10,movie: Orphan,1.0,5
+75,10,10,movie: Place-Beyond-the-Pine-The,-1.0,5
+75,10,10,movie: Scream-2,-0.9999999999999999,5
+75,10,10,movie: Soldier,1.0,5
+75,10,10,movie: Starman,1.0,5
+75,10,10,movie: Strange-Days,1.0,5
+75,10,10,movie: Whistleblower-The,-1.0,5
+75,10,10,movie: Wind-Chill,0.9999999999999998,5
+75,10,10,shepard_fairey,0.11947778063417432,5
+75,10,11,franck_slama,1.0,5
+75,10,11,jackson_pollock,0.30340316460545647,5
+75,10,11,juan_gris,0.2987003791566214,5
+75,10,11,keith_haring,-0.24503498440073843,5
+75,10,11,movie: A-Most-Violent-Year,-1.0,5
+75,10,11,movie: American-Graffiti,-1.0,5
+75,10,11,movie: Arcade,1.0,5
+75,10,11,movie: Die-Hard,-1.0,5
+75,10,11,movie: Elephant-Man-The,1.0,5
+75,10,11,movie: Erin-Brockovich,1.0,5
+75,10,11,movie: Frankenstein,1.0,5
+75,10,11,movie: Godfather-Part-II,1.0,5
+75,10,11,movie: Hangover-The,-1.0,5
+75,10,11,movie: JFK,-0.9999999999999999,5
+75,10,11,movie: Kramer-vs-Kramer,-1.0,5
+75,10,11,movie: Lost-Souls,-1.0,5
+75,10,11,movie: Matrix-The,-1.0,5
+75,10,11,movie: Mirrors,1.0,5
+75,10,11,movie: Nomadland,1.0,5
+75,10,11,movie: Patriot-The,-1.0,5
+75,10,11,movie: Rushmore,1.0,5
+75,10,11,movie: Thor-Ragnarok,0.9999999999999998,5
+75,10,11,movie: Tremors,-1.0,5
+75,10,11,shepard_fairey,0.4758824553596032,5
+75,10,12,franck_slama,-0.39252685490923567,5
+75,10,12,jackson_pollock,-0.23991491175509683,5
+75,10,12,juan_gris,0.760949058128802,5
+75,10,12,keith_haring,-0.25413515548787535,5
+75,10,12,movie: All-the-Kings-Men,1.0,5
+75,10,12,movie: Anchorman,-0.9999999999999999,5
+75,10,12,movie: Broadcast-News,1.0,5
+75,10,12,movie: Chronicle,-1.0,5
+75,10,12,movie: Date-Night,1.0,5
+75,10,12,movie: Die-Hard,1.0,5
+75,10,12,movie: Foxcatcher,1.0,5
+75,10,12,movie: Ghostbuste,0.9999999999999999,5
+75,10,12,movie: Grabbers,-1.0,5
+75,10,12,movie: Hancock,0.9999999999999999,5
+75,10,12,movie: Harry-Potter-and-the-Chamber-of-Secrets,0.9999999999999999,5
+75,10,12,movie: Horse-Whisperer-The,-1.0,5
+75,10,12,movie: Ill-See-You-in-My-Dreams,1.0,5
+75,10,12,movie: Island-The,0.2894720764033843,5
+75,10,12,movie: Marty,1.0,5
+75,10,12,movie: Mary-Queen-of-Scots,1.0,5
+75,10,12,movie: Pacifier-The,-1.0,5
+75,10,12,movie: Parasite,-1.0,5
+75,10,12,movie: Place-Beyond-the-Pine-The,-1.0,5
+75,10,12,movie: Queen-The,1.0,5
+75,10,12,movie: Relic-The,1.0,5
+75,10,12,movie: Star-Trek-Generations,1.0,5
+75,10,12,movie: Star-Wars-Episode-III-Revenge-of-the-Sith,1.0,5
+75,10,12,movie: TRON-Legacy,1.0,5
+75,10,12,movie: Ted,-1.0,5
+75,10,12,movie: Terminator,-0.6509712442008999,5
+75,10,12,movie: Thunderheart,-1.0,5
+75,10,12,shepard_fairey,-0.7335776913991952,5
+75,10,13,franck_slama,0.102581859355024,5
+75,10,13,jackson_pollock,0.42561190091063605,5
+75,10,13,juan_gris,-0.7856994586153299,5
+75,10,13,keith_haring,0.2722956254749089,5
+75,10,13,movie: Avengers-The,1.0,5
+75,10,13,movie: Blind-Side-The,1.0,5
+75,10,13,movie: Bourne-Ultimatum-The,1.0,5
+75,10,13,movie: Fight-Club,0.9999999999999998,5
+75,10,13,movie: Gandh,-1.0,5
+75,10,13,movie: Gandhi,-1.0,5
+75,10,13,movie: Ghost-and-the-Darkness-The,-1.0,5
+75,10,13,movie: Ginger-Snaps,-1.0,5
+75,10,13,movie: I-am-Sam,1.0,5
+75,10,13,movie: Legend-of-Darkness,-0.8150745874690315,5
+75,10,13,movie: Lord-of-the-Rings-Fellowship-of-the-Ring-The,-1.0,5
+75,10,13,movie: Majestic-The-The,-1.0,5
+75,10,13,movie: Megamind,1.0,5
+75,10,13,movie: Men-in-Black,-1.0,5
+75,10,13,movie: Strange-Days,-1.0,5
+75,10,13,movie: The-Shawshank-Redemption,0.0022100614902154,5
+75,10,13,movie: Theory-of-Everything-The,-1.0,5
+75,10,13,movie: Toy-Story,-1.0,5
+75,10,13,shepard_fairey,0.5450844344294136,5
+75,10,14,franck_slama,-0.03688106406574383,5
+75,10,14,jackson_pollock,-0.09451996822030337,5
+75,10,14,juan_gris,-0.8396375203802264,5
+75,10,14,keith_haring,0.20146436408385784,5
+75,10,14,movie: 3-Kings,-1.0,5
+75,10,14,movie: A-Prayer-Before-Dawn,-1.0,5
+75,10,14,movie: Adaptation,-0.9999999999999998,5
+75,10,14,movie: Black-Rain,-0.9999999999999998,5
+75,10,14,movie: Brothers-Bloom-The,1.0,5
+75,10,14,movie: Butterfly-Effect-The,-1.0,5
+75,10,14,movie: Cool-Hand-Luke,1.0,5
+75,10,14,movie: Dances-with-Wolves,-1.0,5
+75,10,14,movie: From-Here-to-Eternity,1.0,5
+75,10,14,movie: Gone-Baby-Gone,-1.0,5
+75,10,14,movie: Henry-Fool,-1.0,5
+75,10,14,movie: Insomnia,1.0,5
+75,10,14,movie: Interview-with-the-Vampire,0.9096528111270815,5
+75,10,14,movie: Invictus,-0.8007652132786256,5
+75,10,14,movie: Jennifer-Eight,-1.0,5
+75,10,14,movie: King-of-Comedy-The,-1.0,5
+75,10,14,movie: Last-Samurai-The,-1.0,5
+75,10,14,movie: Lord-of-the-Rings-Fellowship-of-the-Ring-The,-1.0,5
+75,10,14,movie: Lost-Souls,1.0,5
+75,10,14,movie: Lost-in-Translation,1.0,5
+75,10,14,movie: Made-for-Each-Other,1.0,5
+75,10,14,movie: Philomena,-1.0,5
+75,10,14,movie: Rabid,1.0,5
+75,10,14,movie: Salt-of-the-Earth,1.0,5
+75,10,14,movie: Syriana,1.0,5
+75,10,14,movie: Tall-in-the-Saddle,0.1224867128610285,5
+75,10,14,movie: Twilight-New-Moon,1.0,5
+75,10,14,movie: Up-in-the-Air,1.0,5
+75,10,14,movie: Wind-Chill,0.9999999999999998,5
+75,10,14,shepard_fairey,-0.48043749474150677,5
+75,10,15,franck_slama,-0.5773424126764978,5
+75,10,15,jackson_pollock,1.0,5
+75,10,15,juan_gris,0.3555849382518276,5
+75,10,15,keith_haring,0.8118297644386895,5
+75,10,15,movie: American-Shaolin-King-of-Kickboxers-II,1.0,5
+75,10,15,movie: Anastasia,1.0,5
+75,10,15,movie: Argo,-1.0,5
+75,10,15,movie: Batman-Returns,0.9999999999999998,5
+75,10,15,movie: Butterfly-Effect-The,1.0,5
+75,10,15,movie: Cider-House-Rules-The,1.0,5
+75,10,15,movie: Dances-with-Wolves,0.9999999999999999,5
+75,10,15,movie: House-on-Haunted-Hill,-1.0,5
+75,10,15,movie: Indiana-Jones-Last-Crusade,1.0,5
+75,10,15,movie: Interstellar,-1.0,5
+75,10,15,movie: Jacobs-Ladder,-0.9999999999999999,5
+75,10,15,movie: LA-Confidential,-0.9999999999999999,5
+75,10,15,movie: Law-Abiding-Citizen,1.0,5
+75,10,15,movie: Margot-at-the-Wedding,1.0,5
+75,10,15,movie: Midnight-Cowboy,-1.0,5
+75,10,15,movie: Next,-1.0,5
+75,10,15,movie: Pawn-Sacrifice,1.0,5
+75,10,15,movie: Purple-Rain,1.0,5
+75,10,15,movie: Ruins-The,1.0,5
+75,10,15,movie: Silence-of-the-Lambs,1.0,5
+75,10,15,movie: Some-Like-It-Hot,-1.0,5
+75,10,15,movie: Spider-Man,-1.0,5
+75,10,15,movie: Star-Wars-Episode-III-Revenge-of-the-Sith,-0.41108612531366967,5
+75,10,15,movie: Suspect-Zero,1.0,5
+75,10,15,movie: Sweet-Smell-of-Success,1.0,5
+75,10,15,movie: War-for-the-Planet-of-the-Apes,-1.0,5
+75,10,15,movie: We-Own-the-Night,1.0,5
+75,10,15,movie: What-About-Bob,-1.0,5
+75,10,15,shepard_fairey,-0.10871398353508525,5
+100,8,9,anime,-0.024130963520770314,5
+100,8,9,detailed_portrait,-0.028401953551055705,5
+100,8,9,edward_hopper,-0.14647572786855587,5
+100,8,9,face_and_lighting,-0.24789912450593504,5
+100,8,9,gta_v,-0.11907287261412934,5
+100,8,9,ibrahim_el_salahi,0.3144871120103075,5
+100,8,9,jean-michel_basquiat,0.23390741029177003,5
+100,8,9,kerry_james_marshall,0.02861569862664968,5
+100,8,9,laura_wheeler_waring,-0.053756242595165024,5
+100,8,9,leonardo_da_vinci,-0.1125654463625097,5
+100,8,9,louise bourgeois,0.16365778207324502,5
+100,8,9,ma_jir_bo,0.24339280883144995,5
+100,8,9,marta_minujín,0.101314622441008,5
+100,8,9,medieval,-0.16644020064795592,5
+100,8,9,oil_on_canvas,0.01177084188148787,5
+100,8,9,salvador_dali,-0.02467906139906703,5
+100,8,9,scifi,-0.1730507027612986,5
+100,8,9,studio,-0.0912644646689946,5
+100,8,9,takashi_murakami,-0.22100967378308622,5
+100,8,9,unreal_engine,-0.14076418140721275,5
+100,8,9,van_gogh,0.020486766926356974,5
