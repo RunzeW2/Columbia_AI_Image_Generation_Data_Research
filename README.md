@@ -29,7 +29,7 @@ We utilized KNN clustering to group similar prompts based on their embeddings. T
 3. Applying KNN clustering to group prompts based on a predefined similarity threshold.
 4. Labeling clusters for sentiment similarity using GPT-3.5 Turbo to maintain consistency.
 
-Overall, we identified that an embedding distance below 175 typically returns high sentiment similarity. 
+Overall, we identified that an embedding distance below 170.00 typically returns high sentiment similarity. 
 
 As seen in the distance distribution graph, our data shows a wide spread of prompts:
 
