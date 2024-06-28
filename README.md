@@ -55,9 +55,9 @@ We used the Pearson correlation coefficient to quantify these relationships. Bel
 
 The key findings of our analysis are as follows:
 1. **Prompt Similarity Control**: By using embeddings and KNN clustering, we ensured that prompt similarity did not significantly influence the likability ratings, validating our clustering methodology.
-2. **Guidance Scale and Likability**: The correlation between guidance scale and likability exhibited a wide distribution, ranging from -1 to 1, indicating no consistent trend. This was confirmed through both Pearson and Spearman correlation coefficients.
-3. **Inference Steps and Likability**: Similar to the guidance scale, inference steps also did not show a consistent trend in their effect on likability, as evidenced by varying correlation coefficients and ANOVA test results.
-4. **Art Style Grouping**: When grouping by art styles, the correlations between hyperparameters and likability were evenly distributed, suggesting that the hyperparameters' effects are independent of the art style. This was further supported by multivariate regression analyses.
+2. **Guidance Scale and Likability**: The correlation between guidance scale and likability exhibited a wide distribution, ranging from -1 to 1, indicating no consistent trend.
+3. **Inference Steps and Likability**: Similar to the guidance scale, inference steps also did not show a consistent trend in their effect on likability, as evidenced by varying correlation coefficients.
+4. **Art Style Grouping**: When grouping by art styles, the correlations between hyperparameters and likability were evenly distributed, suggesting that the hyperparameters' effects are independent of the art style. 
 
 ## Conclusion
 
